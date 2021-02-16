@@ -1,0 +1,748 @@
+[
+    [
+        {
+            "name": "react-native-wix-engine",
+            "topics": []
+        },
+        {
+            "name": "market-breadth",
+            "topics": []
+        },
+        {
+            "name": "nlw-03-discovery",
+            "topics": [
+                "handlebars",
+                "nextlevelweek",
+                "nodejs",
+                "rocketseat",
+                "sqlite"
+            ]
+        },
+        {
+            "name": "JAVA-000",
+            "topics": []
+        },
+        {
+            "name": "mmap",
+            "topics": []
+        },
+        {
+            "name": "purecss-character",
+            "topics": []
+        },
+        {
+            "name": "next-sanity",
+            "topics": [
+                "hook",
+                "nextjs",
+                "preview",
+                "real-time",
+                "sanity",
+                "toolkit"
+            ]
+        },
+        {
+            "name": "MSFS_C152",
+            "topics": [
+                "c152",
+                "flight",
+                "microsoft",
+                "msfs",
+                "simulator"
+            ]
+        },
+        {
+            "name": "anonymousmail",
+            "topics": []
+        },
+        {
+            "name": "js-ts-monorepos",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "mp3tag-douban-id3-plugins",
+            "topics": []
+        },
+        {
+            "name": "nvcode-color-schemes.vim",
+            "topics": []
+        },
+        {
+            "name": "harmony",
+            "topics": [
+                "api",
+                "deno",
+                "discord",
+                "harmony",
+                "javascript",
+                "js",
+                "ts",
+                "typescript"
+            ]
+        },
+        {
+            "name": "uptime-monitor",
+            "topics": [
+                "github-actions",
+                "incidents-reports",
+                "upptime",
+                "uptime",
+                "uptime-monitor"
+            ]
+        },
+        {
+            "name": "forge-cli",
+            "topics": [
+                "forge-cli",
+                "hacktoberfest",
+                "laravel-forge"
+            ]
+        },
+        {
+            "name": "npmx",
+            "topics": [
+                "blessed",
+                "cli",
+                "command-line",
+                "npm",
+                "terminal"
+            ]
+        },
+        {
+            "name": "fe-interview-handwrite",
+            "topics": [
+                "interview",
+                "interview-questions",
+                "leetcode"
+            ]
+        },
+        {
+            "name": "twindle",
+            "topics": [
+                "css3",
+                "html5",
+                "javascript",
+                "nodejs",
+                "pdf",
+                "twitter"
+            ]
+        },
+        {
+            "name": "workflow_automation",
+            "topics": []
+        },
+        {
+            "name": "bc7e",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "chemacs2",
+            "topics": []
+        },
+        {
+            "name": "Frog-Auth",
+            "topics": []
+        },
+        {
+            "name": "next-typescript-tailwind-mdx-starter",
+            "topics": [
+                "jest",
+                "mdx",
+                "nextjs",
+                "react",
+                "react-testing-library",
+                "tailwindcss",
+                "testing-library",
+                "typescript"
+            ]
+        },
+        {
+            "name": "odoh-go",
+            "topics": []
+        },
+        {
+            "name": "DIOBootcampNodejs-Desafios",
+            "topics": [
+                "desafios-resolvidos",
+                "digitalinnovation-one",
+                "dio",
+                "javascript",
+                "nodejs"
+            ]
+        },
+        {
+            "name": "bacon",
+            "topics": [
+                "cargo",
+                "check",
+                "compilation",
+                "rust",
+                "terminal"
+            ]
+        },
+        {
+            "name": "typegraphql-prisma",
+            "topics": [
+                "crud",
+                "generator",
+                "graphql",
+                "prisma",
+                "prisma2",
+                "type-graphql",
+                "typegraphql"
+            ]
+        },
+        {
+            "name": "KCORES-FlexibleLOM-Adapter",
+            "topics": [
+                "544flr",
+                "561flr",
+                "flexiblelom",
+                "flr",
+                "kcores",
+                "kicad"
+            ]
+        },
+        {
+            "name": "Repo-Roster",
+            "topics": []
+        },
+        {
+            "name": "weiboPicDownloader",
+            "topics": [
+                "downloader",
+                "electron-vue",
+                "node",
+                "weibo-spider"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Aqls-client",
+            "topics": [
+                "apollo-client",
+                "graphql",
+                "react"
+            ]
+        },
+        {
+            "name": "YelpCamp",
+            "topics": []
+        },
+        {
+            "name": "openapi3-generator",
+            "topics": []
+        },
+        {
+            "name": "HabrSanitizer",
+            "topics": [
+                "chrome",
+                "chrome-extension",
+                "firefox",
+                "firefox-addons",
+                "firefox-extension",
+                "habr",
+                "habrahabr",
+                "habrapost",
+                "social-media"
+            ]
+        },
+        {
+            "name": "iOS-FCRouter",
+            "topics": []
+        },
+        {
+            "name": "fhc",
+            "topics": []
+        },
+        {
+            "name": "lowmad",
+            "topics": []
+        },
+        {
+            "name": "odoh-rs",
+            "topics": []
+        },
+        {
+            "name": "Chengdu-IT-jobs",
+            "topics": []
+        },
+        {
+            "name": "pistorm",
+            "topics": [
+                "amiga",
+                "raspberry"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "TabMerger",
+            "topics": [
+                "cross-browser-extension",
+                "reactjs-ui",
+                "tab-control"
+            ]
+        },
+        {
+            "name": "BloodHound-Tools",
+            "topics": []
+        },
+        {
+            "name": "Genshin-Bypass",
+            "topics": []
+        },
+        {
+            "name": "Sharpnado.Tabs",
+            "topics": []
+        },
+        {
+            "name": "homebase-react",
+            "topics": [
+                "database",
+                "datalog",
+                "graph-database",
+                "homebase",
+                "hook",
+                "javascript",
+                "react",
+                "relational-databases",
+                "state-management",
+                "typescript"
+            ]
+        },
+        {
+            "name": "flutter_widgetkit",
+            "topics": [
+                "flutter",
+                "ios-widget",
+                "ios14",
+                "ios14-widget",
+                "widget-extension"
+            ]
+        },
+        {
+            "name": "speech-recognition-papers",
+            "topics": []
+        },
+        {
+            "name": "burp-unauth-checker",
+            "topics": [
+                "burp-plugin",
+                "burpsuite",
+                "checker",
+                "unauthenticated",
+                "vulnerability"
+            ]
+        },
+        {
+            "name": "multiplex",
+            "topics": [
+                "console",
+                "output",
+                "viewer"
+            ]
+        },
+        {
+            "name": "yi-hack-Allwinner-v2",
+            "topics": [
+                "camera",
+                "custom",
+                "firmware",
+                "hack",
+                "rtsp",
+                "yi"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "bl_iot_sdk",
+            "topics": [
+                "aiot",
+                "bl602",
+                "bl60x",
+                "ble",
+                "bouffalo",
+                "bouffalolab",
+                "combomesh",
+                "iot",
+                "risc-v",
+                "wifi"
+            ]
+        },
+        {
+            "name": "wsld",
+            "topics": [
+                "wsl"
+            ]
+        },
+        {
+            "name": "rpc2socks",
+            "topics": [
+                "post-exploitation",
+                "rpc",
+                "smb",
+                "socks",
+                "windows"
+            ]
+        },
+        {
+            "name": "gtk-rs",
+            "topics": []
+        },
+        {
+            "name": "ARK-Invest-Square-Valuation-Extract",
+            "topics": []
+        },
+        {
+            "name": "differentiable-robot-model",
+            "topics": []
+        },
+        {
+            "name": "faust",
+            "topics": [
+                "asyncio",
+                "distributed-systems",
+                "kafka",
+                "python-streaming",
+                "redis"
+            ]
+        },
+        {
+            "name": "atmo",
+            "topics": [
+                "alpha",
+                "api",
+                "event-driven",
+                "rust",
+                "swift",
+                "webassembly"
+            ]
+        },
+        {
+            "name": "BlurHashExt",
+            "topics": []
+        },
+        {
+            "name": "LeetCode_Algorithms",
+            "topics": [
+                "hacktoberfest",
+                "hacktoberfest2020"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "air-quality",
+            "topics": []
+        },
+        {
+            "name": "ketch",
+            "topics": []
+        },
+        {
+            "name": "airsend",
+            "topics": [
+                "airdrop",
+                "p2p",
+                "webrtc"
+            ]
+        },
+        {
+            "name": "FFCreatorLite",
+            "topics": [
+                "ffmpeg",
+                "ffmpeg-command",
+                "node-video",
+                "nodejs",
+                "video",
+                "video-processing"
+            ]
+        },
+        {
+            "name": "NeuralTracking",
+            "topics": [
+                "neural-networks",
+                "non-rigid-shapes",
+                "robust-optimization"
+            ]
+        },
+        {
+            "name": "smzdm_bot",
+            "topics": []
+        },
+        {
+            "name": "awesome-made-in-kz",
+            "topics": [
+                "awesome",
+                "awesome-list",
+                "made-by-kazakhs",
+                "made-in-kz"
+            ]
+        },
+        {
+            "name": "vpn-libraries",
+            "topics": [
+                "google",
+                "vpn"
+            ]
+        },
+        {
+            "name": "BALM",
+            "topics": []
+        },
+        {
+            "name": "dino-rss-electron",
+            "topics": [
+                "it",
+                "news",
+                "rss"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "burp-multiplayer",
+            "topics": []
+        },
+        {
+            "name": "fauxmoESP",
+            "topics": []
+        },
+        {
+            "name": "text_analysis_for_social_science",
+            "topics": [
+                "social-sciences",
+                "text-analysis"
+            ]
+        },
+        {
+            "name": "fail2ban-endlessh",
+            "topics": []
+        },
+        {
+            "name": "pyxll-jupyter",
+            "topics": []
+        },
+        {
+            "name": "netlify-plugin-nextjs",
+            "topics": []
+        },
+        {
+            "name": "stu_system",
+            "topics": []
+        },
+        {
+            "name": "airqualitymonitor",
+            "topics": []
+        },
+        {
+            "name": "histools",
+            "topics": [
+                "browser-history",
+                "ink",
+                "paper-css",
+                "safari",
+                "torus-dom"
+            ]
+        },
+        {
+            "name": "LambdaNetworks",
+            "topics": [
+                "image-classification",
+                "lambda-convolution",
+                "lambda-networks",
+                "pytorch",
+                "self-attention"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "swift-setup",
+            "topics": []
+        },
+        {
+            "name": "peanutgredis",
+            "topics": []
+        },
+        {
+            "name": "Deep-Reinforcement-Learning-With-Python",
+            "topics": [
+                "a2c",
+                "a3c",
+                "actor-critic",
+                "bellman-equation",
+                "c51",
+                "ddpg",
+                "deep-learning",
+                "deep-reinforcement-learning",
+                "double-dqn",
+                "dqn",
+                "inverse-reinforcement-learning",
+                "openai-gym",
+                "policy-gradient",
+                "ppo",
+                "q-learning",
+                "reinforcement-learning",
+                "sac",
+                "td3",
+                "trpo"
+            ]
+        },
+        {
+            "name": "acqdp",
+            "topics": []
+        },
+        {
+            "name": "anime_biggan_toy",
+            "topics": [
+                "anime",
+                "biggan",
+                "deep-learning",
+                "gan"
+            ]
+        },
+        {
+            "name": "Hacktoberfest",
+            "topics": [
+                "hacktoberfest",
+                "hacktoberfest2020"
+            ]
+        },
+        {
+            "name": "genshinmap.github.io",
+            "topics": [
+                "genshin",
+                "genshin-impact",
+                "leafletjs",
+                "map",
+                "reactjs"
+            ]
+        },
+        {
+            "name": "azure-functions-university",
+            "topics": []
+        },
+        {
+            "name": "halogen",
+            "topics": [
+                "cfc",
+                "detection",
+                "security",
+                "target-cfc"
+            ]
+        },
+        {
+            "name": "Poke-Dex",
+            "topics": [
+                "css3",
+                "first-pull-request",
+                "good-first-pr",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "html5",
+                "opensource",
+                "pull-request"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "wireless-carplay-dongle-reverse-engineering",
+            "topics": [
+                "apple",
+                "carlinkit",
+                "carplay",
+                "carplay2air",
+                "cplay2air",
+                "reverse-engineering"
+            ]
+        },
+        {
+            "name": "Facebook-BugBounty-Writeups",
+            "topics": [
+                "bug-bounty",
+                "bugbounty",
+                "bugbounty-writeups",
+                "facebook-security"
+            ]
+        },
+        {
+            "name": "IronEye",
+            "topics": [
+                "android",
+                "android-windows-linux",
+                "gcc",
+                "ironeye",
+                "linux",
+                "private-license",
+                "python"
+            ]
+        },
+        {
+            "name": "graphx",
+            "topics": [
+                "custompainter",
+                "graphx"
+            ]
+        },
+        {
+            "name": "RoboGrammar",
+            "topics": []
+        },
+        {
+            "name": "human",
+            "topics": [
+                "age-estimation",
+                "body-tracking",
+                "emotion-detection",
+                "face-detection",
+                "face-embedding",
+                "face-position",
+                "face-recognition",
+                "gender-prediction",
+                "gesture-recognition",
+                "hand-tracking",
+                "iris-tracking",
+                "tensorflowjs",
+                "tfjs"
+            ]
+        },
+        {
+            "name": "Chess",
+            "topics": []
+        },
+        {
+            "name": "NeweggBot",
+            "topics": []
+        },
+        {
+            "name": "go-workers",
+            "topics": [
+                "concurrency",
+                "go",
+                "go-concurrency",
+                "go-worker",
+                "go-workerpool",
+                "golang",
+                "golang-library",
+                "multiple-workers",
+                "pool",
+                "pools",
+                "worker-functions",
+                "workers"
+            ]
+        },
+        {
+            "name": "qgisprocess",
+            "topics": []
+        }
+    ]
+]

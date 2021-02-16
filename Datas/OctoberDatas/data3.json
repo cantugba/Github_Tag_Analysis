@@ -1,0 +1,915 @@
+[
+    [
+        {
+            "name": "stern",
+            "topics": [
+                "debugging",
+                "devops",
+                "kubernetes",
+                "logging",
+                "logs",
+                "tail"
+            ]
+        },
+        {
+            "name": "wsb-detect",
+            "topics": []
+        },
+        {
+            "name": "fan-push",
+            "topics": [
+                "android",
+                "instant-messaging",
+                "netty",
+                "netty-server",
+                "push",
+                "tcp-ip"
+            ]
+        },
+        {
+            "name": "DotNetGuide",
+            "topics": [
+                "internal",
+                "memcached",
+                "microsoft",
+                "microsoft-sql",
+                "mongodb",
+                "mysql",
+                "nosql",
+                "redis"
+            ]
+        },
+        {
+            "name": "self-hosted-cookbook",
+            "topics": [
+                "cookbook",
+                "docker-compose",
+                "self-hosted"
+            ]
+        },
+        {
+            "name": "org-transclusion",
+            "topics": [
+                "emacs",
+                "org-mode",
+                "org-roam",
+                "transclude",
+                "transclusion",
+                "writing"
+            ]
+        },
+        {
+            "name": "JavaCourseCodes",
+            "topics": []
+        },
+        {
+            "name": "svgwave",
+            "topics": [
+                "design",
+                "generator",
+                "gradient",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "preact",
+                "svg",
+                "tailwindcss",
+                "uidesign",
+                "waves"
+            ]
+        },
+        {
+            "name": "New-SSD",
+            "topics": []
+        },
+        {
+            "name": "guwenbert",
+            "topics": [
+                "bert",
+                "classical-chinese",
+                "guwenbert",
+                "literary-chinese",
+                "transformers"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "online",
+            "topics": [
+                "android",
+                "cpp",
+                "documents",
+                "enterprise",
+                "free-software",
+                "hacktoberfest",
+                "ios",
+                "javascript",
+                "libreoffice",
+                "office",
+                "open-source",
+                "opensource",
+                "productivity"
+            ]
+        },
+        {
+            "name": "live",
+            "topics": [
+                "components",
+                "golang",
+                "live-view",
+                "liveview",
+                "server-side-rendering",
+                "virtual-dom",
+                "websockets"
+            ]
+        },
+        {
+            "name": "FinBERT",
+            "topics": []
+        },
+        {
+            "name": "VXUG-Papers",
+            "topics": [
+                "malware",
+                "malware-development",
+                "malware-research"
+            ]
+        },
+        {
+            "name": "glide-data-grid",
+            "topics": [
+                "data",
+                "react",
+                "table"
+            ]
+        },
+        {
+            "name": "dagger",
+            "topics": []
+        },
+        {
+            "name": "laravel-device-tracking",
+            "topics": []
+        },
+        {
+            "name": "kubecraftadmin",
+            "topics": []
+        },
+        {
+            "name": "waline",
+            "topics": [
+                "blog",
+                "cloudbase",
+                "comment",
+                "leancloud",
+                "mongodb",
+                "postgresql",
+                "sqlite",
+                "valine",
+                "vercel"
+            ]
+        },
+        {
+            "name": "pinyin-pro",
+            "topics": [
+                "pinyin-pro"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "human-interface-guidelines-extras",
+            "topics": [
+                "apple",
+                "human-interface-guidelines",
+                "ios",
+                "macos",
+                "tvos",
+                "watchos"
+            ]
+        },
+        {
+            "name": "kamiFaka",
+            "topics": [
+                "faka",
+                "flask",
+                "heroku",
+                "jwt-authentication",
+                "mysql",
+                "pwd",
+                "smtp",
+                "stisla",
+                "ui-stisla",
+                "vue3",
+                "vuejs"
+            ]
+        },
+        {
+            "name": "faceshifter",
+            "topics": [
+                "face-swapping",
+                "pytorch",
+                "pytorch-lightning"
+            ]
+        },
+        {
+            "name": "github-stories",
+            "topics": [
+                "github",
+                "stories"
+            ]
+        },
+        {
+            "name": "alicloud-tools",
+            "topics": []
+        },
+        {
+            "name": "Wagonwheel",
+            "topics": [
+                "email",
+                "hacktoberfest",
+                "laravel",
+                "laravel-framework",
+                "laravel-package"
+            ]
+        },
+        {
+            "name": "volute",
+            "topics": [
+                "raspberry-pi",
+                "snowboy",
+                "speech"
+            ]
+        },
+        {
+            "name": "hifi3dface",
+            "topics": []
+        },
+        {
+            "name": "scaphandre",
+            "topics": [
+                "consumption-metrics",
+                "electricity",
+                "electricity-consumption",
+                "electricity-meter",
+                "energy",
+                "energy-consumption",
+                "energy-efficiency",
+                "energy-monitor",
+                "greenit",
+                "prometheus",
+                "qemu",
+                "rust",
+                "rust-lang",
+                "sustainability",
+                "virtual-machines",
+                "wattmeter",
+                "watts"
+            ]
+        },
+        {
+            "name": "apple-store-helper",
+            "topics": [
+                "apple",
+                "iphone12",
+                "store"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Automation-scripts",
+            "topics": [
+                "automation",
+                "hacktoberfest",
+                "hacktoberfest-accepted",
+                "hacktoberfest2020",
+                "python"
+            ]
+        },
+        {
+            "name": "DataStructures-Algorithms",
+            "topics": [
+                "a2oj",
+                "codechef",
+                "codeforces",
+                "cpp-cheat-sheet",
+                "data-structure",
+                "geeksforgeeks",
+                "interview-questions",
+                "leetcode"
+            ]
+        },
+        {
+            "name": "mltype",
+            "topics": [
+                "deep-learning",
+                "machine-learning",
+                "touch-typing",
+                "typing",
+                "typing-practice",
+                "typing-trainer",
+                "typingspeedtest"
+            ]
+        },
+        {
+            "name": "graphql-helix",
+            "topics": []
+        },
+        {
+            "name": "robogym",
+            "topics": []
+        },
+        {
+            "name": "Summarization-Papers",
+            "topics": [
+                "natural-language-processing",
+                "nlp",
+                "summarization",
+                "text-generation"
+            ]
+        },
+        {
+            "name": "Dockter",
+            "topics": []
+        },
+        {
+            "name": "iPAPatcher",
+            "topics": []
+        },
+        {
+            "name": "skills",
+            "topics": []
+        },
+        {
+            "name": "tldrstory",
+            "topics": [
+                "machine-learning",
+                "nlp",
+                "python",
+                "search"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "CVE-2020-14882",
+            "topics": []
+        },
+        {
+            "name": "ISO",
+            "topics": [
+                "hellosystem",
+                "iso",
+                "livecd"
+            ]
+        },
+        {
+            "name": "libonnx",
+            "topics": [
+                "ai",
+                "baremetal",
+                "c",
+                "dedeep-neural-networks",
+                "deep-learning",
+                "embedded",
+                "embedded-systems",
+                "hardware-acceleration",
+                "inference",
+                "library",
+                "lightweight",
+                "machine-learning",
+                "neural-network",
+                "onnx",
+                "portable"
+            ]
+        },
+        {
+            "name": "iOS-Widgets",
+            "topics": [
+                "ios",
+                "javascript",
+                "widget",
+                "widgets"
+            ]
+        },
+        {
+            "name": "CVE-2020-16898",
+            "topics": [
+                "atr",
+                "bad-neighbor",
+                "badneighbor",
+                "buffer-overflow",
+                "buffer-overflow-vulnerability",
+                "cve",
+                "cve-2020-16898",
+                "icmpv6",
+                "lua",
+                "mcafee",
+                "microsoft",
+                "neighbor-discovery",
+                "neighbor-discovery-protocol",
+                "rce",
+                "suricata",
+                "suricata-rule",
+                "tcpip-stack",
+                "windows-10"
+            ]
+        },
+        {
+            "name": "Vigilante",
+            "topics": [
+                "android",
+                "androidanimation",
+                "androidviewmodel",
+                "biometrics-android",
+                "camera",
+                "clean-architecture",
+                "clean-architecture-coroutines",
+                "coroutines-android",
+                "dagger2",
+                "hilt-android",
+                "hilt-dependency-injection",
+                "kotlin",
+                "material-animation",
+                "microphone",
+                "mvvm-android",
+                "mvvm-architecture",
+                "paging3",
+                "room-persistence-library",
+                "screen-dots",
+                "stateflow"
+            ]
+        },
+        {
+            "name": "cuuhomientrung",
+            "topics": [
+                "cuuhomientrung",
+                "open-source-project",
+                "python"
+            ]
+        },
+        {
+            "name": "HacktoberFest",
+            "topics": [
+                "c",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "java"
+            ]
+        },
+        {
+            "name": "dockerfile-security",
+            "topics": []
+        },
+        {
+            "name": "blades",
+            "topics": [
+                "generator",
+                "site"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "web-portfolio",
+            "topics": [
+                "animations",
+                "mixins",
+                "portfolio",
+                "portfolio-website",
+                "react",
+                "react-spring",
+                "reactjs",
+                "scss",
+                "transition-animation"
+            ]
+        },
+        {
+            "name": "rust-script",
+            "topics": [
+                "cargo",
+                "rust",
+                "script"
+            ]
+        },
+        {
+            "name": "inkscape-raytracing",
+            "topics": [
+                "inkscape-extension",
+                "optics",
+                "optics-simulation",
+                "python"
+            ]
+        },
+        {
+            "name": "JavaMap",
+            "topics": [
+                "java"
+            ]
+        },
+        {
+            "name": "Docker-eyeOS",
+            "topics": [
+                "arm",
+                "docker",
+                "gdb",
+                "ios",
+                "kernel",
+                "xnu"
+            ]
+        },
+        {
+            "name": "HMMs_Stock_Market",
+            "topics": []
+        },
+        {
+            "name": "yjdirscan",
+            "topics": []
+        },
+        {
+            "name": "MalwareMultiScan",
+            "topics": [
+                "antivirus",
+                "clamav",
+                "defender",
+                "docker",
+                "dotnet",
+                "virustotal"
+            ]
+        },
+        {
+            "name": "HacktoberFest2020-Contributions",
+            "topics": [
+                "contribute-repository",
+                "contributions-welcome",
+                "first-timers",
+                "hackoberfest2020",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "open-source",
+                "open-source-community",
+                "open-source-project"
+            ]
+        },
+        {
+            "name": "vanilla-node-rest-api",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "obsidian-git",
+            "topics": [
+                "obsidian",
+                "obsidian-md",
+                "obsidian-plugin"
+            ]
+        },
+        {
+            "name": "godot-card-game-framework",
+            "topics": [
+                "card-game",
+                "framework",
+                "godot",
+                "godot-engine"
+            ]
+        },
+        {
+            "name": "odin2",
+            "topics": []
+        },
+        {
+            "name": "Bundler",
+            "topics": [
+                "activity",
+                "android",
+                "bundle",
+                "bundler",
+                "fragment",
+                "intent",
+                "kotlin",
+                "kotlin-extensions",
+                "skydoves"
+            ]
+        },
+        {
+            "name": "buildkit-cli-for-kubectl",
+            "topics": []
+        },
+        {
+            "name": "Legal-Text-Analytics",
+            "topics": [
+                "legal",
+                "legal-text-analytics",
+                "nlp"
+            ]
+        },
+        {
+            "name": "vectorai",
+            "topics": [
+                "artificial-intelligence",
+                "clustering",
+                "compare-vectors",
+                "deep-learning",
+                "embeddings",
+                "encodings",
+                "machine-learning",
+                "neural-networks",
+                "python",
+                "pytorch",
+                "search",
+                "search-engine",
+                "semantic-search",
+                "tensorflow",
+                "transformers",
+                "vector",
+                "vector-analytics",
+                "vector-search",
+                "vector-similarity",
+                "vector-similarity-database"
+            ]
+        },
+        {
+            "name": "rust_test",
+            "topics": []
+        },
+        {
+            "name": "fantasticon",
+            "topics": []
+        },
+        {
+            "name": "tcpprobe",
+            "topics": [
+                "docker",
+                "http",
+                "http2",
+                "https",
+                "k8s",
+                "kubernetes",
+                "monitoring",
+                "observability",
+                "probe",
+                "socket",
+                "sre",
+                "tcp"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "go-wasm",
+            "topics": [
+                "go",
+                "golang",
+                "ide",
+                "wasm",
+                "webassembly"
+            ]
+        },
+        {
+            "name": "csharp-source-generators",
+            "topics": [
+                "awesome-list",
+                "csharp",
+                "csharp-sourcegenerator",
+                "dotnet",
+                "list",
+                "roslyn"
+            ]
+        },
+        {
+            "name": "IBMQuantumChallenge2020",
+            "topics": []
+        },
+        {
+            "name": "android-2048-compose",
+            "topics": []
+        },
+        {
+            "name": "frosch",
+            "topics": []
+        },
+        {
+            "name": "modern-apis-with-fastapi",
+            "topics": [
+                "apis",
+                "async",
+                "fastapi-course",
+                "modern-apis",
+                "pydantic",
+                "python-language",
+                "rest-api",
+                "talkpython"
+            ]
+        },
+        {
+            "name": "AI-algorithm-engineer-knowledge",
+            "topics": []
+        },
+        {
+            "name": "opencspm",
+            "topics": [
+                "aws",
+                "cloud",
+                "cspm",
+                "gcp",
+                "kubernetes",
+                "security",
+                "security-audit"
+            ]
+        },
+        {
+            "name": "laravel-castable-data-transfer-object",
+            "topics": [
+                "data-transfer-object",
+                "laravel",
+                "laravel-package",
+                "value-object"
+            ]
+        },
+        {
+            "name": "unitypackage-custom-hierarchy",
+            "topics": [
+                "custom-hierarchy",
+                "unity"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "awesome-engineering-team-management",
+            "topics": [
+                "awesome",
+                "awesome-list",
+                "career",
+                "compensation",
+                "cto",
+                "culture",
+                "engineering-team",
+                "executive-management",
+                "hiring",
+                "leadership",
+                "management",
+                "motivation",
+                "onboarding",
+                "politics",
+                "product-management",
+                "project-management",
+                "recruitment",
+                "systems",
+                "transition"
+            ]
+        },
+        {
+            "name": "awesome-scriptable",
+            "topics": [
+                "awesome",
+                "awesome-list",
+                "ios",
+                "ios14",
+                "scriptable",
+                "scriptable-app",
+                "widget"
+            ]
+        },
+        {
+            "name": "Chicken_McNuggets",
+            "topics": []
+        },
+        {
+            "name": "Arp-Spoofer",
+            "topics": [
+                "arp-poisoning",
+                "arp-spoofing",
+                "ethical-hacking",
+                "network-programming",
+                "penetration-testing",
+                "socket-programming"
+            ]
+        },
+        {
+            "name": "vue-node-sqlite3",
+            "topics": []
+        },
+        {
+            "name": "OpenLineage",
+            "topics": []
+        },
+        {
+            "name": "IFC.js",
+            "topics": [
+                "3d",
+                "bim",
+                "geometry",
+                "ifc",
+                "threejs"
+            ]
+        },
+        {
+            "name": "lfs",
+            "topics": [
+                "filesystem",
+                "hacktoberfest",
+                "rust",
+                "unix"
+            ]
+        },
+        {
+            "name": "blackeye",
+            "topics": []
+        },
+        {
+            "name": "reaflow",
+            "topics": [
+                "diagrams",
+                "elkjs",
+                "node-editor",
+                "react",
+                "reactjs",
+                "workflow"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "vben-admin-thin-next",
+            "topics": [
+                "template"
+            ]
+        },
+        {
+            "name": "devforthaifreedom",
+            "topics": [
+                "democracy",
+                "freedom",
+                "hackathon",
+                "hacktoberfest",
+                "thai"
+            ]
+        },
+        {
+            "name": "IdentityServer",
+            "topics": [
+                "aspnetcore",
+                "identity",
+                "oauth",
+                "oidc",
+                "openid-connect",
+                "security"
+            ]
+        },
+        {
+            "name": "x-transformers",
+            "topics": [
+                "artificial-intelligence",
+                "attention-mechanism",
+                "deep-learning",
+                "transformers"
+            ]
+        },
+        {
+            "name": "svelte-query",
+            "topics": []
+        },
+        {
+            "name": "GravityIsNotAForce",
+            "topics": [
+                "generalrelativity",
+                "geodesics",
+                "spacetime"
+            ]
+        },
+        {
+            "name": "plus_plugins",
+            "topics": [
+                "flutter"
+            ]
+        },
+        {
+            "name": "flutter-widgets",
+            "topics": []
+        },
+        {
+            "name": "thola",
+            "topics": [
+                "checkmk",
+                "golang",
+                "icinga",
+                "icinga-plugin",
+                "monitoring",
+                "nagios",
+                "nagios-plugin",
+                "provisioning",
+                "zabbix"
+            ]
+        },
+        {
+            "name": "julius",
+            "topics": [
+                "dsp",
+                "pytorch"
+            ]
+        }
+    ]
+]

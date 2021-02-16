@@ -1,0 +1,847 @@
+[
+    [
+        {
+            "name": "aws-lambda-runtime-interface-emulator",
+            "topics": []
+        },
+        {
+            "name": "ray",
+            "topics": [
+                "debug",
+                "dump",
+                "laravel",
+                "php"
+            ]
+        },
+        {
+            "name": "universal-doom",
+            "topics": []
+        },
+        {
+            "name": "As-Exploits",
+            "topics": []
+        },
+        {
+            "name": "recursosfrontend",
+            "topics": []
+        },
+        {
+            "name": "harold",
+            "topics": [
+                "bundle-size",
+                "parcel",
+                "rollup",
+                "web-optimization",
+                "webpack"
+            ]
+        },
+        {
+            "name": "TextBox",
+            "topics": [
+                "bart",
+                "encoder-decoder",
+                "generative-adversarial-network",
+                "gpt-2",
+                "pretrained-language-model",
+                "pytorch",
+                "sequence-to-sequence",
+                "text-generation",
+                "variational-autoencoder",
+                "xlnet"
+            ]
+        },
+        {
+            "name": "deploy",
+            "topics": [
+                "admin-panel",
+                "gost",
+                "iptables",
+                "port-forwarding"
+            ]
+        },
+        {
+            "name": "Starlight",
+            "topics": []
+        },
+        {
+            "name": "laravel-user-activity",
+            "topics": [
+                "laravel",
+                "laravel-framework",
+                "laravel-package",
+                "open-source",
+                "user-activity",
+                "user-activity-monitoring"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "LISP-Machine",
+            "topics": []
+        },
+        {
+            "name": "grab_beacon_config",
+            "topics": []
+        },
+        {
+            "name": "PredicateKit",
+            "topics": [
+                "coredata",
+                "keypaths",
+                "nspredicate",
+                "predicates",
+                "swift",
+                "swiftui"
+            ]
+        },
+        {
+            "name": "parler-grab",
+            "topics": []
+        },
+        {
+            "name": "webscan",
+            "topics": []
+        },
+        {
+            "name": "gitops-working-group-old",
+            "topics": []
+        },
+        {
+            "name": "activejs",
+            "topics": []
+        },
+        {
+            "name": "vue-okr-tree",
+            "topics": []
+        },
+        {
+            "name": "mannequin.js",
+            "topics": []
+        },
+        {
+            "name": "IROS2020-paper-list",
+            "topics": [
+                "iros",
+                "iros2020",
+                "robotics",
+                "slam"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "vdvae",
+            "topics": []
+        },
+        {
+            "name": "tailwindcss-aspect-ratio",
+            "topics": []
+        },
+        {
+            "name": "waline",
+            "topics": [
+                "blog",
+                "cloudbase",
+                "comment",
+                "leancloud",
+                "mongodb",
+                "postgresql",
+                "sqlite",
+                "valine",
+                "vercel"
+            ]
+        },
+        {
+            "name": "emacs-webkit",
+            "topics": []
+        },
+        {
+            "name": "cleora",
+            "topics": [
+                "ai",
+                "cleora-embeddings",
+                "datasets",
+                "deepwalk",
+                "embeddings",
+                "entity",
+                "graphs",
+                "hypergraphs",
+                "inductive-entity-embeddings",
+                "machine-learning",
+                "ml",
+                "pytorch-biggraph",
+                "synerise"
+            ]
+        },
+        {
+            "name": "nextjs-aws-s3",
+            "topics": [
+                "aws",
+                "aws-cdk",
+                "nextjs",
+                "s3"
+            ]
+        },
+        {
+            "name": "Oblivion",
+            "topics": [
+                "blueteam",
+                "cybersecurity",
+                "data",
+                "data-breach",
+                "data-leak",
+                "data-security",
+                "email",
+                "gui",
+                "leak",
+                "opensource",
+                "osint",
+                "password",
+                "pentest",
+                "pyqt5",
+                "pyside2",
+                "python",
+                "security-team",
+                "security-tools"
+            ]
+        },
+        {
+            "name": "github-stories",
+            "topics": [
+                "github",
+                "stories"
+            ]
+        },
+        {
+            "name": "ZY-Player-APP",
+            "topics": [
+                "uniapp",
+                "zy",
+                "zy-player",
+                "zyplayer"
+            ]
+        },
+        {
+            "name": "CompilerGym",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "homebridgeStatusWidget",
+            "topics": []
+        },
+        {
+            "name": "timelines",
+            "topics": [
+                "dart",
+                "flutter",
+                "flutter-package",
+                "flutter-ui",
+                "flutter-widget",
+                "flutter-widgets",
+                "timeline",
+                "timeline-component",
+                "timelines"
+            ]
+        },
+        {
+            "name": "LiveTL",
+            "topics": [
+                "hololive",
+                "live-translations",
+                "translations",
+                "vtubers",
+                "youtube-livestream"
+            ]
+        },
+        {
+            "name": "awesome-gans-and-deepfakes",
+            "topics": [
+                "deep-learning",
+                "deep-neural-networks",
+                "deepfakes",
+                "gans",
+                "literature",
+                "machine-learning",
+                "paper"
+            ]
+        },
+        {
+            "name": "awesome-limits",
+            "topics": []
+        },
+        {
+            "name": "artisan-gui",
+            "topics": [
+                "artisan",
+                "artisan-gui",
+                "laravel",
+                "packagist",
+                "php"
+            ]
+        },
+        {
+            "name": "navigan",
+            "topics": []
+        },
+        {
+            "name": "LeetHub",
+            "topics": [
+                "chrome",
+                "chrome-extension",
+                "coding-interviews",
+                "github",
+                "github-api",
+                "javascript",
+                "leetcode",
+                "leethub",
+                "portfolio"
+            ]
+        },
+        {
+            "name": "ProjectorAndroidStudio",
+            "topics": []
+        },
+        {
+            "name": "vue-2-3",
+            "topics": [
+                "components",
+                "interop",
+                "vue",
+                "vue2",
+                "vue3"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "w5",
+            "topics": [
+                "automation",
+                "hack",
+                "hacker",
+                "hacking",
+                "python-script",
+                "python3",
+                "security",
+                "security-audit",
+                "security-automation",
+                "security-tools",
+                "soar",
+                "tools",
+                "w5",
+                "w5soar"
+            ]
+        },
+        {
+            "name": "ICLR2021-OpenReviewData",
+            "topics": []
+        },
+        {
+            "name": "SlideOverCard",
+            "topics": [
+                "apple",
+                "card",
+                "ios",
+                "ipados",
+                "over",
+                "slide",
+                "swift",
+                "swiftui"
+            ]
+        },
+        {
+            "name": "PS5bot",
+            "topics": []
+        },
+        {
+            "name": "Hummer",
+            "topics": []
+        },
+        {
+            "name": "honey",
+            "topics": []
+        },
+        {
+            "name": "PaddleVideo",
+            "topics": [
+                "action-detection",
+                "action-localization",
+                "action-recognition",
+                "activitynet",
+                "attention-lstm",
+                "ava",
+                "bmn",
+                "cvpr2019",
+                "cvpr2020",
+                "iccv2019",
+                "kinetics400",
+                "slowfast",
+                "temporal-action-detection",
+                "tsm",
+                "tsn",
+                "ucf101",
+                "video-classification",
+                "video-recognition",
+                "video-understanding",
+                "youtube-8m"
+            ]
+        },
+        {
+            "name": "rkyv",
+            "topics": [
+                "rust",
+                "serialization",
+                "zero-copy"
+            ]
+        },
+        {
+            "name": "universe2020",
+            "topics": []
+        },
+        {
+            "name": "evidently",
+            "topics": [
+                "data-drift",
+                "data-science",
+                "html-report",
+                "jupyter-notebook",
+                "machine-learning",
+                "machine-learning-operations",
+                "mlops",
+                "model-monitoring",
+                "pandas-dataframe",
+                "production-machine-learning"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Efeito-3D",
+            "topics": []
+        },
+        {
+            "name": "Udemy-Course-Grabber",
+            "topics": [
+                "auto-login",
+                "automated",
+                "automatic-udemy-enroller",
+                "bot",
+                "coupon-scraper",
+                "coupons",
+                "discount-coupons",
+                "exe",
+                "free",
+                "free-courses",
+                "gui",
+                "python",
+                "software",
+                "udemy",
+                "udemy-account",
+                "udemy-bot",
+                "udemy-course",
+                "udemy-enroller",
+                "udemy-paid-courses",
+                "udemycourse"
+            ]
+        },
+        {
+            "name": "Xray-script",
+            "topics": [
+                "bbr",
+                "bbr2",
+                "bbrplus",
+                "websocket",
+                "xray",
+                "xray-tls-web",
+                "xtls"
+            ]
+        },
+        {
+            "name": "Gem",
+            "topics": []
+        },
+        {
+            "name": "Boilerplate",
+            "topics": [
+                "aspnetcore",
+                "boilerplate",
+                "clean-architecture",
+                "clean-code",
+                "dotnet",
+                "net5"
+            ]
+        },
+        {
+            "name": "jwt-rocketseat",
+            "topics": []
+        },
+        {
+            "name": "postcards",
+            "topics": [
+                "cc0",
+                "r",
+                "rmarkdown",
+                "rmarkdown-template",
+                "rstats",
+                "rstudio"
+            ]
+        },
+        {
+            "name": "cf-workers-status-page",
+            "topics": [
+                "cloudflare-workers",
+                "cloudflare-workers-cron",
+                "cloudflare-workers-kv",
+                "flareact",
+                "monitoring",
+                "slack-notifications",
+                "status-page",
+                "wrangler"
+            ]
+        },
+        {
+            "name": "nvdiffrast",
+            "topics": []
+        },
+        {
+            "name": "contrate-junior-estagio",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "awesome-ML-projects-guide",
+            "topics": [
+                "guide",
+                "machinelearning",
+                "project"
+            ]
+        },
+        {
+            "name": "fractal",
+            "topics": []
+        },
+        {
+            "name": "CTFNote",
+            "topics": [
+                "ctf",
+                "ctf-tools"
+            ]
+        },
+        {
+            "name": "smithy",
+            "topics": []
+        },
+        {
+            "name": "Anno.Core",
+            "topics": []
+        },
+        {
+            "name": "long-range-arena",
+            "topics": [
+                "attention",
+                "deep-learning",
+                "flax",
+                "jax",
+                "nlp",
+                "transformers"
+            ]
+        },
+        {
+            "name": "Bundler",
+            "topics": [
+                "activity",
+                "android",
+                "bundle",
+                "bundler",
+                "fragment",
+                "intent",
+                "kotlin",
+                "kotlin-extensions",
+                "skydoves"
+            ]
+        },
+        {
+            "name": "Mitigating-Obsolete-TLS",
+            "topics": [
+                "guidance",
+                "mitigations",
+                "snort-rules",
+                "ssl",
+                "tls"
+            ]
+        },
+        {
+            "name": "Spaceman",
+            "topics": [
+                "macos",
+                "spaces",
+                "virtualdesktop"
+            ]
+        },
+        {
+            "name": "BrasilAPI",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "jitboy",
+            "topics": [
+                "dynamic-compiler",
+                "dynasm",
+                "emulator",
+                "game-boy",
+                "gameboy",
+                "gameboy-emulator",
+                "gbz80",
+                "jit",
+                "jit-compiler",
+                "sdl2"
+            ]
+        },
+        {
+            "name": "flutter-starter",
+            "topics": [
+                "dart",
+                "flutter",
+                "flutter-bloc",
+                "flutter-starter"
+            ]
+        },
+        {
+            "name": "auproximity",
+            "topics": []
+        },
+        {
+            "name": "applied-ml",
+            "topics": [
+                "applied-ml",
+                "deep-learning",
+                "machine-learning",
+                "ml-in-production",
+                "ml-ops",
+                "pytorch"
+            ]
+        },
+        {
+            "name": "roubsite",
+            "topics": []
+        },
+        {
+            "name": "OneListForAll",
+            "topics": [
+                "bugbounty",
+                "fuzzing",
+                "hacking",
+                "pentesting",
+                "web-fuzzing",
+                "wordlist"
+            ]
+        },
+        {
+            "name": "QuantumultX-Script",
+            "topics": []
+        },
+        {
+            "name": "flink-boot",
+            "topics": [
+                "bigdata",
+                "flink",
+                "flink-boot",
+                "java",
+                "java-flink",
+                "mcv",
+                "mybatis",
+                "sping",
+                "spring-boot",
+                "spring-retry"
+            ]
+        },
+        {
+            "name": "BaiduPCS-Go",
+            "topics": [
+                "baidupcs"
+            ]
+        },
+        {
+            "name": "awesome-scriptable",
+            "topics": [
+                "awesome",
+                "awesome-list",
+                "ios",
+                "ios14",
+                "scriptable",
+                "scriptable-app",
+                "widget"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "1mb-club",
+            "topics": []
+        },
+        {
+            "name": "aws-proton-sample-templates",
+            "topics": []
+        },
+        {
+            "name": "stereo-transformer",
+            "topics": [
+                "pytorch",
+                "stereo-depth-estimation",
+                "stereo-matching",
+                "stereo-transformer",
+                "stereo-vision"
+            ]
+        },
+        {
+            "name": "whatscli",
+            "topics": []
+        },
+        {
+            "name": "Arp-Spoofer",
+            "topics": [
+                "arp-poisoning",
+                "arp-spoofing",
+                "ethical-hacking",
+                "network-programming",
+                "penetration-testing",
+                "socket-programming"
+            ]
+        },
+        {
+            "name": "FreeTheSandbox_LPE_POC_13.7",
+            "topics": []
+        },
+        {
+            "name": "PaddleHelix",
+            "topics": [
+                "biocomputing",
+                "deeplearning",
+                "dti",
+                "graph-networks",
+                "machine-learning",
+                "molecule-design",
+                "ppi",
+                "protein-folding",
+                "protein-structure-prediction",
+                "representation-learning",
+                "rna-structure-prediction",
+                "self-supervised-learning"
+            ]
+        },
+        {
+            "name": "Actions",
+            "topics": []
+        },
+        {
+            "name": "ghapi",
+            "topics": [
+                "api-client",
+                "github",
+                "github-api",
+                "nbdev",
+                "openapi"
+            ]
+        },
+        {
+            "name": "uGRUB",
+            "topics": [
+                "adi1090x",
+                "archcraft",
+                "archlinux",
+                "bootable",
+                "bootable-live-cd",
+                "bootable-media",
+                "bootable-usb",
+                "bootable-usb-drives",
+                "debian",
+                "grub",
+                "grub-theme",
+                "grub2",
+                "grub2-theme",
+                "linux",
+                "ubuntu",
+                "unixporn"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "hearthstone-battlegrounds-tools",
+            "topics": [
+                "hearthstone"
+            ]
+        },
+        {
+            "name": "yyz",
+            "topics": []
+        },
+        {
+            "name": "JNDIExploit",
+            "topics": [
+                "jndi",
+                "jndibypass"
+            ]
+        },
+        {
+            "name": "video-input-js",
+            "topics": []
+        },
+        {
+            "name": "domainNamePredictor",
+            "topics": [
+                "domain-name-generator",
+                "domain-name-predictor"
+            ]
+        },
+        {
+            "name": "psvg",
+            "topics": [
+                "image-format",
+                "programming-language",
+                "svg",
+                "vector-graphics"
+            ]
+        },
+        {
+            "name": "game-and-watch-hacking",
+            "topics": []
+        },
+        {
+            "name": "Jetpack-Compose-Android-Examples",
+            "topics": [
+                "android-example",
+                "compose",
+                "compose-tutorial",
+                "jetpack",
+                "jetpack-android",
+                "jetpack-compose",
+                "kotlin-android"
+            ]
+        },
+        {
+            "name": "fleet",
+            "topics": [
+                "device-management",
+                "endpoint-manager",
+                "endpoint-monitoring",
+                "endpoint-security",
+                "host-instrumentation",
+                "it-ops",
+                "open-source",
+                "osquery",
+                "security"
+            ]
+        },
+        {
+            "name": "DOMRec",
+            "topics": []
+        }
+    ]
+]

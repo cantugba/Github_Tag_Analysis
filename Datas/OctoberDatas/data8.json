@@ -1,0 +1,856 @@
+[
+    [
+        {
+            "name": "showcase-songs-search",
+            "topics": [
+                "instantsearch-js",
+                "musicbrainz",
+                "typesense",
+                "typesense-instantsearch-adapter"
+            ]
+        },
+        {
+            "name": "Hacktoberfest2k20",
+            "topics": [
+                "hacktoberfest",
+                "hacktoberfest-2020",
+                "hacktoberfest-accepted",
+                "hacktoberfest2020"
+            ]
+        },
+        {
+            "name": "policy-hub-cli",
+            "topics": [
+                "cloud-native",
+                "cncf",
+                "hacktoberfest",
+                "kubernetes",
+                "opa",
+                "openpolicyagent",
+                "policies",
+                "rego"
+            ]
+        },
+        {
+            "name": "harlem",
+            "topics": [
+                "javascript",
+                "state-management",
+                "typescript",
+                "vue"
+            ]
+        },
+        {
+            "name": "magento2-hyva-checkout",
+            "topics": []
+        },
+        {
+            "name": "wasmCloud",
+            "topics": [
+                "actor-model",
+                "actors",
+                "wapc",
+                "webassembly",
+                "webassembly-runtime"
+            ]
+        },
+        {
+            "name": "defi-bot",
+            "topics": []
+        },
+        {
+            "name": "typescript-livro-de-bolso",
+            "topics": []
+        },
+        {
+            "name": "forge-node-app",
+            "topics": [
+                "babel",
+                "boilerplate",
+                "boilerplate-node",
+                "cli",
+                "cli-app",
+                "command-line",
+                "command-line-interface",
+                "command-line-tool",
+                "javascript",
+                "node",
+                "node-js",
+                "nodejs",
+                "npm-module",
+                "npm-package",
+                "npx",
+                "typescript"
+            ]
+        },
+        {
+            "name": "bytekit",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "clojure-graph-resources",
+            "topics": [
+                "clojure",
+                "datalog",
+                "graph-theory",
+                "graphs",
+                "neo4j",
+                "owl",
+                "rdf",
+                "semantic-web",
+                "triples"
+            ]
+        },
+        {
+            "name": "gitflux",
+            "topics": [
+                "hacktoberfest"
+            ]
+        },
+        {
+            "name": "react-native-styled.macro",
+            "topics": [
+                "babel-macros",
+                "expo",
+                "react-native",
+                "tailwindcss",
+                "utility-first",
+                "variants"
+            ]
+        },
+        {
+            "name": "kiosk-mode",
+            "topics": [
+                "home-assistant",
+                "kiosk",
+                "kiosk-mode",
+                "lovelace"
+            ]
+        },
+        {
+            "name": "April-Tag-VR-FullBody-Tracker",
+            "topics": []
+        },
+        {
+            "name": "HacktoberFest2020-1",
+            "topics": [
+                "hacktoberfest",
+                "hacktoberfest-accepted",
+                "hacktoberfest2020"
+            ]
+        },
+        {
+            "name": "evidential-deep-learning",
+            "topics": [
+                "confidence",
+                "deep-learning",
+                "evidence",
+                "neural-network",
+                "neurips-2020",
+                "pytorch",
+                "tensorflow",
+                "uncertainty"
+            ]
+        },
+        {
+            "name": "ruGPT3_demos",
+            "topics": []
+        },
+        {
+            "name": "ucollage",
+            "topics": [
+                "image-viewer"
+            ]
+        },
+        {
+            "name": "zippy",
+            "topics": [
+                "compression",
+                "deflate",
+                "gzip",
+                "huffman-coding",
+                "lz77",
+                "nim",
+                "tarball",
+                "zip",
+                "zlib"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Genshin_Impact_bot",
+            "topics": [
+                "genshin-impact",
+                "hoshinobot"
+            ]
+        },
+        {
+            "name": "latest-changes",
+            "topics": []
+        },
+        {
+            "name": "toast.vim",
+            "topics": [
+                "color-scheme",
+                "color-theme",
+                "colorscheme",
+                "neovim",
+                "neovim-plugin",
+                "nvim-plugin",
+                "syntax-theme",
+                "theme",
+                "vim",
+                "vim-colors",
+                "vim-colorscheme"
+            ]
+        },
+        {
+            "name": "badge42",
+            "topics": [
+                "42",
+                "42born2code",
+                "42school",
+                "42seoul",
+                "badge"
+            ]
+        },
+        {
+            "name": "ShellFurGodot",
+            "topics": [
+                "fur",
+                "godot"
+            ]
+        },
+        {
+            "name": "CharBERT",
+            "topics": []
+        },
+        {
+            "name": "KorNlpTutorial",
+            "topics": []
+        },
+        {
+            "name": "character-bert",
+            "topics": []
+        },
+        {
+            "name": "Sensor-Fusion",
+            "topics": []
+        },
+        {
+            "name": "framework",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "flattable",
+            "topics": [
+                "denormalization",
+                "denormalized",
+                "eloquent",
+                "flattable",
+                "laravel"
+            ]
+        },
+        {
+            "name": "dotfiles-public",
+            "topics": []
+        },
+        {
+            "name": "amazon-braket-examples",
+            "topics": []
+        },
+        {
+            "name": "LauncherIconLib",
+            "topics": []
+        },
+        {
+            "name": "openfaas-puppeteer-template",
+            "topics": []
+        },
+        {
+            "name": "free-kubernetes",
+            "topics": []
+        },
+        {
+            "name": "torvenyek",
+            "topics": []
+        },
+        {
+            "name": "cvebase.com",
+            "topics": [
+                "cve",
+                "cybersecurity",
+                "infosec",
+                "security",
+                "vulnerabilities",
+                "wiki"
+            ]
+        },
+        {
+            "name": "sms_analysis",
+            "topics": []
+        },
+        {
+            "name": "OfflineSWD",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "nvim-bqf",
+            "topics": [
+                "lua",
+                "neovim",
+                "neovim-lua",
+                "neovim-plugin",
+                "nvim",
+                "quickfix",
+                "vim"
+            ]
+        },
+        {
+            "name": "react-blog",
+            "topics": [
+                "antd",
+                "blog",
+                "koa",
+                "react",
+                "redux"
+            ]
+        },
+        {
+            "name": "febeacon_bulletin_board",
+            "topics": [
+                "docs",
+                "docs-cn",
+                "docs-zh-cn"
+            ]
+        },
+        {
+            "name": "pwa-boilerplate",
+            "topics": [
+                "boilerplate",
+                "css-modules",
+                "frontend",
+                "hooks",
+                "nextjs",
+                "progressive-web-app",
+                "pwa",
+                "pwa-boilerplate",
+                "react",
+                "redux",
+                "redux-thunk",
+                "scss",
+                "typescript"
+            ]
+        },
+        {
+            "name": "awesome-shields",
+            "topics": [
+                "badges",
+                "badges-markdown",
+                "shields",
+                "shields-io",
+                "shieldsio",
+                "styled-components"
+            ]
+        },
+        {
+            "name": "unofficial-homestuck-collection",
+            "topics": []
+        },
+        {
+            "name": "HULL",
+            "topics": [
+                "framer-motion",
+                "headless",
+                "next-js",
+                "nextjs",
+                "react",
+                "sanity",
+                "shopify",
+                "starter",
+                "starter-template",
+                "tailwindcss",
+                "vercel"
+            ]
+        },
+        {
+            "name": "permute-quantize-finetune",
+            "topics": [
+                "deep-learning",
+                "network-compression",
+                "vector-quantization"
+            ]
+        },
+        {
+            "name": "build",
+            "topics": []
+        },
+        {
+            "name": "DoNotSend",
+            "topics": [
+                "dns",
+                "dns-client",
+                "dns-server",
+                "dns-tunneling",
+                "python3",
+                "scapy"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "jwt",
+            "topics": [
+                "go",
+                "golang",
+                "json-web-token",
+                "jwt"
+            ]
+        },
+        {
+            "name": "topalias",
+            "topics": [
+                "alias",
+                "aliases",
+                "analytics",
+                "bash",
+                "cli",
+                "console",
+                "devops",
+                "gitlab",
+                "history",
+                "linux",
+                "python",
+                "russian",
+                "shell",
+                "statistics",
+                "sysadmin",
+                "terminal",
+                "tool",
+                "top",
+                "utility",
+                "zsh"
+            ]
+        },
+        {
+            "name": "mocxx",
+            "topics": [
+                "cpp",
+                "frida",
+                "instrumentation",
+                "mocking",
+                "testing"
+            ]
+        },
+        {
+            "name": "howtrader",
+            "topics": [
+                "51bitquant",
+                "algo",
+                "binance",
+                "binance-api",
+                "binance-bot",
+                "binance-trader",
+                "bitcoin",
+                "cryptocurrency",
+                "eth",
+                "python",
+                "quant",
+                "quantitative",
+                "trader",
+                "trading",
+                "vnpy"
+            ]
+        },
+        {
+            "name": "podcast-namespace",
+            "topics": []
+        },
+        {
+            "name": "smash-minecraft-skins",
+            "topics": []
+        },
+        {
+            "name": "Selfoss-Webfront",
+            "topics": []
+        },
+        {
+            "name": "html-file-upload",
+            "topics": [
+                "html",
+                "html5",
+                "javascript",
+                "js",
+                "tips",
+                "tips-and-tricks"
+            ]
+        },
+        {
+            "name": "Unicode-Mapping-on-Domain-names",
+            "topics": []
+        },
+        {
+            "name": "jsonifier",
+            "topics": [
+                "bytestring",
+                "haskell",
+                "json",
+                "marshalling",
+                "serialization"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "CovidGraphs",
+            "topics": []
+        },
+        {
+            "name": "xfields",
+            "topics": []
+        },
+        {
+            "name": "yinyang",
+            "topics": [
+                "cvc4",
+                "fuzzing",
+                "smt",
+                "smt-lib",
+                "smt-solver",
+                "testing",
+                "z3"
+            ]
+        },
+        {
+            "name": "Retrogamer-Compose",
+            "topics": [
+                "compose",
+                "jetpack-compose",
+                "kotlin",
+                "kotlin-android",
+                "mvi",
+                "retrogame",
+                "tetris"
+            ]
+        },
+        {
+            "name": "BlenderUSDHydraAddon",
+            "topics": []
+        },
+        {
+            "name": "github-readme-streak-stats",
+            "topics": [
+                "dynamic",
+                "github",
+                "github-profile",
+                "github-streak-stats",
+                "hacktoberfest",
+                "profile",
+                "profile-readme",
+                "readme",
+                "readme-generator",
+                "readme-stats",
+                "serverless",
+                "stats",
+                "streak"
+            ]
+        },
+        {
+            "name": "uniaccount",
+            "topics": []
+        },
+        {
+            "name": "BocchiBot",
+            "topics": [
+                "automation",
+                "bot",
+                "downloader",
+                "moderation-bot",
+                "node-js",
+                "whatsapp",
+                "whatsapp-bot"
+            ]
+        },
+        {
+            "name": "HeadphoneMotion",
+            "topics": []
+        },
+        {
+            "name": "BOF-RegSave",
+            "topics": [
+                "beacon",
+                "bof",
+                "cobalt-strike",
+                "pentesting-tools",
+                "redteam"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "messaging-security-2020",
+            "topics": [
+                "e2ee",
+                "email",
+                "messaging",
+                "security"
+            ]
+        },
+        {
+            "name": "nlp-gym",
+            "topics": [
+                "gym-environment",
+                "nlp",
+                "nlp-tasks",
+                "rl-agents"
+            ]
+        },
+        {
+            "name": "TwitGrid",
+            "topics": []
+        },
+        {
+            "name": "slader-extension",
+            "topics": [
+                "chrome-extension",
+                "firefox-extension",
+                "slader"
+            ]
+        },
+        {
+            "name": "sectorlisp",
+            "topics": []
+        },
+        {
+            "name": "yana",
+            "topics": [
+                "app",
+                "free",
+                "notebook",
+                "notes",
+                "organization",
+                "productivity",
+                "scalable",
+                "search",
+                "yana"
+            ]
+        },
+        {
+            "name": "disk",
+            "topics": []
+        },
+        {
+            "name": "box2d-wasm",
+            "topics": [
+                "box2d",
+                "physics",
+                "webassembly"
+            ]
+        },
+        {
+            "name": "p5",
+            "topics": []
+        },
+        {
+            "name": "rigflo",
+            "topics": [
+                "api",
+                "backend",
+                "gui",
+                "openapi",
+                "react-flow"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "mega-linter",
+            "topics": [
+                "ci",
+                "code-quality",
+                "code-quality-analyzer",
+                "fixing",
+                "formatting",
+                "github-actions",
+                "golang",
+                "groovy",
+                "java",
+                "jenkins",
+                "jsonschema",
+                "kotlin",
+                "linter",
+                "linters",
+                "markdown",
+                "python",
+                "rust",
+                "scala",
+                "terraform"
+            ]
+        },
+        {
+            "name": "KGPT",
+            "topics": [
+                "data-to-text",
+                "pre-training"
+            ]
+        },
+        {
+            "name": "pokemon-gpt-2",
+            "topics": []
+        },
+        {
+            "name": "GradAug",
+            "topics": []
+        },
+        {
+            "name": "vision-transformer",
+            "topics": [
+                "computer-vision",
+                "tensorflow",
+                "transformer",
+                "vision-transformer"
+            ]
+        },
+        {
+            "name": "AWVS-13-SCAN-PLUS",
+            "topics": [
+                "awvs",
+                "awvs12",
+                "awvs13",
+                "vulnerability-scanning"
+            ]
+        },
+        {
+            "name": "opendata",
+            "topics": [
+                "datascience",
+                "soccer",
+                "sportsanalytics"
+            ]
+        },
+        {
+            "name": "inline-c-rs",
+            "topics": [
+                "c",
+                "rust",
+                "rust-library"
+            ]
+        },
+        {
+            "name": "ReviewAdvisor",
+            "topics": []
+        },
+        {
+            "name": "Newbe.ObjectVisitor",
+            "topics": [
+                "mapper",
+                "object",
+                "reflection",
+                "stargazers",
+                "validation",
+                "visitor-pattern"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "curiefense",
+            "topics": [
+                "botmanagement",
+                "ddos",
+                "envoyproxy",
+                "waf"
+            ]
+        },
+        {
+            "name": "machine",
+            "topics": [
+                "codespaces",
+                "github-actions",
+                "golang",
+                "golang-library",
+                "golang-package",
+                "golangci-lint",
+                "mit-license",
+                "pipeline",
+                "pipeline-framework",
+                "stream-processing",
+                "streaming-data",
+                "workflow",
+                "workflow-engine"
+            ]
+        },
+        {
+            "name": "vue3-for-beginners",
+            "topics": []
+        },
+        {
+            "name": "okr",
+            "topics": []
+        },
+        {
+            "name": "stif-indonesia",
+            "topics": [
+                "moses",
+                "moses-toolkit",
+                "style-transfer",
+                "supervised-experiments"
+            ]
+        },
+        {
+            "name": "badPods",
+            "topics": [
+                "assessment",
+                "exploitation",
+                "hostipc",
+                "hostnetwork",
+                "hostpath",
+                "hostpid",
+                "kubernetes",
+                "penetration-testing",
+                "pods",
+                "podspec",
+                "privileged",
+                "security"
+            ]
+        },
+        {
+            "name": "DeLORA",
+            "topics": [
+                "lidar-odometry",
+                "paper",
+                "robotic-applications",
+                "robotics"
+            ]
+        },
+        {
+            "name": "pltalk",
+            "topics": []
+        },
+        {
+            "name": "iplocate",
+            "topics": [
+                "aws",
+                "ipgeo",
+                "ipgeolocation",
+                "reactjs",
+                "terraform"
+            ]
+        },
+        {
+            "name": "TensorPipe",
+            "topics": [
+                "computer-vision",
+                "datapipeline",
+                "tensorflow"
+            ]
+        }
+    ]
+]

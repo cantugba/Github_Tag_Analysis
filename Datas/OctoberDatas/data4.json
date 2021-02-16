@@ -1,0 +1,843 @@
+[
+    [
+        {
+            "name": "bbgo",
+            "topics": [
+                "binance",
+                "cryptocurrency",
+                "trading",
+                "trading-bot"
+            ]
+        },
+        {
+            "name": "xf_event_extraction2020Top1",
+            "topics": [
+                "competition",
+                "events-extraction",
+                "pytorch"
+            ]
+        },
+        {
+            "name": "Adblock4limbo",
+            "topics": [
+                "adguard",
+                "limbopro",
+                "nobyda",
+                "quantumultx"
+            ]
+        },
+        {
+            "name": "html-css-old",
+            "topics": []
+        },
+        {
+            "name": "metamine",
+            "topics": []
+        },
+        {
+            "name": "DInvoke",
+            "topics": []
+        },
+        {
+            "name": "RotationDetection",
+            "topics": []
+        },
+        {
+            "name": "CVE-2020-16938",
+            "topics": []
+        },
+        {
+            "name": "CoCLR",
+            "topics": []
+        },
+        {
+            "name": "dcompass",
+            "topics": [
+                "counter-censorship",
+                "dns",
+                "dns-over-https",
+                "dns-server",
+                "routing"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "ml-training-camp",
+            "topics": []
+        },
+        {
+            "name": "red-screen-of-death",
+            "topics": []
+        },
+        {
+            "name": "3klCon",
+            "topics": [
+                "bugbounty",
+                "face",
+                "medium-scopes",
+                "penetration-testing",
+                "penetration-testing-framework",
+                "recon",
+                "reconnaissance",
+                "vps"
+            ]
+        },
+        {
+            "name": "opensuspect",
+            "topics": [
+                "among-us",
+                "game",
+                "godot-engine",
+                "mafia",
+                "social-deduction-game"
+            ]
+        },
+        {
+            "name": "ViT",
+            "topics": [
+                "hybrid-vit",
+                "image-classification",
+                "image-recognition",
+                "transformers",
+                "vision-transformer",
+                "vit"
+            ]
+        },
+        {
+            "name": "graph-notebook",
+            "topics": [
+                "graph",
+                "gremlin",
+                "jupyter",
+                "jupyter-widgets",
+                "neptune",
+                "sparql"
+            ]
+        },
+        {
+            "name": "Zhihu-Spider",
+            "topics": []
+        },
+        {
+            "name": "proxy-memoize",
+            "topics": []
+        },
+        {
+            "name": "vulkan-diagrams",
+            "topics": []
+        },
+        {
+            "name": "goop",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "knightly",
+            "topics": [
+                "automation",
+                "knightly",
+                "nightly-build"
+            ]
+        },
+        {
+            "name": "cloudlist",
+            "topics": [
+                "asset-management",
+                "devops",
+                "pentest"
+            ]
+        },
+        {
+            "name": "awesome-php-src",
+            "topics": [
+                "awesome",
+                "php",
+                "php-src",
+                "source-code"
+            ]
+        },
+        {
+            "name": "FAST_LIO",
+            "topics": [
+                "lidar-odometry",
+                "livox-avia-lidar"
+            ]
+        },
+        {
+            "name": "react-hooks-in-svelte",
+            "topics": [
+                "hooks",
+                "react",
+                "svelte"
+            ]
+        },
+        {
+            "name": "FilamentQL",
+            "topics": []
+        },
+        {
+            "name": "ci",
+            "topics": []
+        },
+        {
+            "name": "next-adventure",
+            "topics": [
+                "hasura",
+                "netlify",
+                "netlify-forms",
+                "netlify-functions",
+                "next-on-netlify",
+                "nextjs"
+            ]
+        },
+        {
+            "name": "cargo-chef",
+            "topics": [
+                "cargo",
+                "ci",
+                "docker",
+                "rust"
+            ]
+        },
+        {
+            "name": "podgrab",
+            "topics": [
+                "golang",
+                "open-source",
+                "podcast",
+                "podcast-downloader",
+                "podcast-player",
+                "self-hosted"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "saffron",
+            "topics": [
+                "cloudflare-workers",
+                "cron",
+                "rust"
+            ]
+        },
+        {
+            "name": "professional-ts",
+            "topics": [
+                "hacktoberfest"
+            ]
+        },
+        {
+            "name": "DeClang",
+            "topics": []
+        },
+        {
+            "name": "CobaltStrike-BOF",
+            "topics": []
+        },
+        {
+            "name": "homura",
+            "topics": [
+                "electron",
+                "homura",
+                "react",
+                "redux",
+                "rss",
+                "rss-reader",
+                "typescript"
+            ]
+        },
+        {
+            "name": "evostrat",
+            "topics": []
+        },
+        {
+            "name": "Startup-Landing",
+            "topics": [
+                "beautiful",
+                "business",
+                "components",
+                "customizable",
+                "entrepreneurship",
+                "gatsby",
+                "learning",
+                "modern",
+                "nextjs",
+                "opensource",
+                "react",
+                "responsive",
+                "server-rendering",
+                "simple",
+                "static-site",
+                "template",
+                "theme-ui",
+                "ui-components",
+                "universal",
+                "webapp"
+            ]
+        },
+        {
+            "name": "home",
+            "topics": [
+                "access-management",
+                "api",
+                "iam",
+                "identity",
+                "oauth",
+                "openid",
+                "security",
+                "sso",
+                "uma"
+            ]
+        },
+        {
+            "name": "Multi-EasyGost",
+            "topics": []
+        },
+        {
+            "name": "laravel-route-attributes",
+            "topics": [
+                "laravel",
+                "php",
+                "php8"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "RL-Theory-book",
+            "topics": []
+        },
+        {
+            "name": "yttv-platform",
+            "topics": [
+                "paltform",
+                "sotfware",
+                "work"
+            ]
+        },
+        {
+            "name": "stegseek",
+            "topics": [
+                "brute-force",
+                "cracking",
+                "ctf",
+                "ctf-tools",
+                "pentesting",
+                "security",
+                "steganography",
+                "stegcracker",
+                "steghide",
+                "stego"
+            ]
+        },
+        {
+            "name": "Taobao",
+            "topics": [
+                "autojs",
+                "roceys",
+                "taobao",
+                "tmall"
+            ]
+        },
+        {
+            "name": "gitsigns.nvim",
+            "topics": [
+                "lua",
+                "nvim"
+            ]
+        },
+        {
+            "name": "RelationNet2",
+            "topics": []
+        },
+        {
+            "name": "js-expert-week",
+            "topics": []
+        },
+        {
+            "name": "trojan-r",
+            "topics": [
+                "china",
+                "gfw",
+                "proxy",
+                "trojan",
+                "trojan-gfw",
+                "trojan-go",
+                "trojan-r"
+            ]
+        },
+        {
+            "name": "JavaFamily",
+            "topics": []
+        },
+        {
+            "name": "go-audio",
+            "topics": [
+                "audiobook",
+                "cli",
+                "cobra",
+                "go",
+                "golang",
+                "pdf"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "sploit",
+            "topics": []
+        },
+        {
+            "name": "superheroes-deep-learning",
+            "topics": []
+        },
+        {
+            "name": "xrepo",
+            "topics": [
+                "android",
+                "c",
+                "c-plus-plus",
+                "conan",
+                "cross-compilation",
+                "cross-platform",
+                "homebrew",
+                "ios",
+                "linux",
+                "mingw",
+                "package-manager",
+                "vcpkg",
+                "windows",
+                "xmake",
+                "xmake-repo"
+            ]
+        },
+        {
+            "name": "uivonim",
+            "topics": [
+                "electron",
+                "gui",
+                "neovim",
+                "neovim-guis",
+                "typescript",
+                "webgl2"
+            ]
+        },
+        {
+            "name": "pronounce",
+            "topics": [
+                "add-on",
+                "add-ons-for-firefox",
+                "chrome",
+                "doubt",
+                "extension-chrome",
+                "firefox",
+                "language",
+                "language-learning",
+                "pronounciation",
+                "school"
+            ]
+        },
+        {
+            "name": "flow_builder",
+            "topics": [
+                "flutter",
+                "flutter-package",
+                "router",
+                "routing"
+            ]
+        },
+        {
+            "name": "sextant",
+            "topics": []
+        },
+        {
+            "name": "libcache",
+            "topics": [
+                "arc-cache",
+                "cache",
+                "caching",
+                "fifo",
+                "go",
+                "golang",
+                "in-memory",
+                "lfu",
+                "library",
+                "lifo",
+                "lru",
+                "mru",
+                "ttl"
+            ]
+        },
+        {
+            "name": "awesome-visual-representation-learning-with-transformers",
+            "topics": [
+                "awesome-list",
+                "computer-vision",
+                "representation-learning",
+                "self-attention",
+                "transformers"
+            ]
+        },
+        {
+            "name": "bling",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "bigsurblocker",
+            "topics": [
+                "macadmin",
+                "macos"
+            ]
+        },
+        {
+            "name": "typelang",
+            "topics": [
+                "compiler",
+                "functional-programming",
+                "learning",
+                "recursion",
+                "type-system",
+                "typescript"
+            ]
+        },
+        {
+            "name": "HacktoberFest2020",
+            "topics": [
+                "good-first-issue",
+                "hacktoberfest",
+                "hacktoberfest-2020",
+                "hacktoberfest-accepted",
+                "hacktoberfest-starter",
+                "hacktoberfest2020"
+            ]
+        },
+        {
+            "name": "legend",
+            "topics": [
+                "grafana",
+                "grafana-dashboard",
+                "monitoring",
+                "monitoring-tool",
+                "observability"
+            ]
+        },
+        {
+            "name": "kaggle-landmark-recognition-2020-1st-place",
+            "topics": []
+        },
+        {
+            "name": "deepinterpolation",
+            "topics": []
+        },
+        {
+            "name": "xCrash",
+            "topics": [
+                "android",
+                "anr",
+                "apm",
+                "block",
+                "crash",
+                "crash-reporting",
+                "exception",
+                "handler",
+                "java",
+                "jni",
+                "native",
+                "reporter",
+                "reporting"
+            ]
+        },
+        {
+            "name": "FlutterResources",
+            "topics": [
+                "dart",
+                "flutter",
+                "hacktoberfest",
+                "resources"
+            ]
+        },
+        {
+            "name": "ubuntu-desktop-installer",
+            "topics": []
+        },
+        {
+            "name": "ad-honeypot-autodeploy",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "jni_helper",
+            "topics": [
+                "apk",
+                "ghidra",
+                "ida",
+                "jni-helper",
+                "radare2"
+            ]
+        },
+        {
+            "name": "SmallSharp",
+            "topics": [
+                "csharp-sourcegenerator"
+            ]
+        },
+        {
+            "name": "akar-icons",
+            "topics": [
+                "akar-icons",
+                "icon",
+                "icon-library",
+                "icon-pack",
+                "react",
+                "svg",
+                "svg-icons"
+            ]
+        },
+        {
+            "name": "xshell",
+            "topics": []
+        },
+        {
+            "name": "django-antd-tyadmin",
+            "topics": [
+                "admin",
+                "antd-design-pro",
+                "antdesign",
+                "django",
+                "django-admin",
+                "django-rest-framework",
+                "drf",
+                "generator",
+                "nocode",
+                "python3",
+                "react",
+                "xadmin"
+            ]
+        },
+        {
+            "name": "Data-Structures-and-Algorithms",
+            "topics": [
+                "algorithms",
+                "c",
+                "computer-science",
+                "cpp",
+                "csharp",
+                "data-structures",
+                "deep-learning",
+                "go",
+                "java",
+                "machine-learning-algorithms",
+                "python",
+                "swift"
+            ]
+        },
+        {
+            "name": "binder",
+            "topics": [
+                "flutter",
+                "inheritedwidget",
+                "service-locator",
+                "state-management"
+            ]
+        },
+        {
+            "name": "compose-for-web-demos",
+            "topics": [
+                "ui-library"
+            ]
+        },
+        {
+            "name": "roadmap",
+            "topics": []
+        },
+        {
+            "name": "k8ssandra",
+            "topics": [
+                "cassandra",
+                "grafana",
+                "helm",
+                "kubernetes",
+                "medusa",
+                "nosql",
+                "prometheus",
+                "reaper",
+                "stargate"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "ktra",
+            "topics": [
+                "cargo-registry",
+                "crates",
+                "registry",
+                "rust"
+            ]
+        },
+        {
+            "name": "netease-cloud-music-community",
+            "topics": [
+                "java",
+                "javascript",
+                "mysql",
+                "netease",
+                "netease-cloud-music",
+                "netease-music",
+                "oss",
+                "redis",
+                "spring-boot",
+                "springboot",
+                "uni-app",
+                "uniapp",
+                "vue"
+            ]
+        },
+        {
+            "name": "dagger",
+            "topics": [
+                "alerting",
+                "cloudnative",
+                "dagger",
+                "fluentd",
+                "logging",
+                "loki"
+            ]
+        },
+        {
+            "name": "checkn1x",
+            "topics": [
+                "apple",
+                "checkra1n",
+                "ios",
+                "iso",
+                "jailbreak",
+                "linux"
+            ]
+        },
+        {
+            "name": "thermite",
+            "topics": [
+                "algorithms",
+                "math",
+                "optimizations",
+                "rust",
+                "simd",
+                "structure-of-arrays"
+            ]
+        },
+        {
+            "name": "services",
+            "topics": []
+        },
+        {
+            "name": "widgets",
+            "topics": []
+        },
+        {
+            "name": "CorrectAndSmooth",
+            "topics": []
+        },
+        {
+            "name": "iPhoneNumberField",
+            "topics": []
+        },
+        {
+            "name": "100-days-of-code",
+            "topics": [
+                "challenges",
+                "cpp",
+                "dart",
+                "golang",
+                "kotlin",
+                "kts",
+                "python",
+                "swift"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "github-contributions-ios",
+            "topics": [
+                "contributions",
+                "contributions-chart",
+                "github",
+                "ios",
+                "ios-app",
+                "ios-swift",
+                "ios14",
+                "swift",
+                "widgetkit",
+                "widgets"
+            ]
+        },
+        {
+            "name": "scriptable",
+            "topics": []
+        },
+        {
+            "name": "jsonresume-fake",
+            "topics": []
+        },
+        {
+            "name": "Ray-Stinger-Based-on-K210",
+            "topics": []
+        },
+        {
+            "name": "auraloss",
+            "topics": [
+                "audio",
+                "loss-functions",
+                "pytorch"
+            ]
+        },
+        {
+            "name": "luna-linux-conf",
+            "topics": [
+                "ap-t",
+                "apt-get",
+                "docker",
+                "install",
+                "linux",
+                "yum"
+            ]
+        },
+        {
+            "name": "TinyAFL",
+            "topics": [
+                "hacktoberfest"
+            ]
+        },
+        {
+            "name": "Mail-Probe",
+            "topics": [
+                "html",
+                "javascript",
+                "mail",
+                "php"
+            ]
+        },
+        {
+            "name": "grasp",
+            "topics": [
+                "clojure",
+                "clojure-spec",
+                "code-search"
+            ]
+        },
+        {
+            "name": "LaneATT",
+            "topics": [
+                "computer-vision",
+                "deep-learning",
+                "lane-detection"
+            ]
+        }
+    ]
+]

@@ -1,0 +1,824 @@
+[
+    [
+        {
+            "name": "developer-community-stats",
+            "topics": [
+                "beginner-friendly",
+                "developer",
+                "developer-community",
+                "gatsby",
+                "good-first-issue",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "hactoberfest",
+                "hactoberfest2020",
+                "react"
+            ]
+        },
+        {
+            "name": "react-admin-example",
+            "topics": []
+        },
+        {
+            "name": "key-mapper",
+            "topics": [
+                "gamepad",
+                "input",
+                "linux",
+                "mouse"
+            ]
+        },
+        {
+            "name": "dynamic-progamming-book",
+            "topics": []
+        },
+        {
+            "name": "UAC-SilentClean",
+            "topics": [
+                "bypass-uac",
+                "cobaltstrike-cna",
+                "redteam",
+                "redteam-tools",
+                "uac-bypass"
+            ]
+        },
+        {
+            "name": "super-jacoco",
+            "topics": []
+        },
+        {
+            "name": "yearn-vaults",
+            "topics": [
+                "blockchain",
+                "defi",
+                "ethereum",
+                "ethereum-contract",
+                "vyper",
+                "yearn",
+                "yearn-finance"
+            ]
+        },
+        {
+            "name": "ztext",
+            "topics": []
+        },
+        {
+            "name": "collector-intellij",
+            "topics": [
+                "hacktoberfest",
+                "intellij",
+                "intellij-plugin",
+                "laravel",
+                "laravel-collections",
+                "phpstorm",
+                "phpstorm-plugin"
+            ]
+        },
+        {
+            "name": "TileScroll",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "awesome-hacker-note-taking",
+            "topics": []
+        },
+        {
+            "name": "ctlptl",
+            "topics": []
+        },
+        {
+            "name": "phpvuln",
+            "topics": [
+                "audit",
+                "command-injection",
+                "cross-site-scripting",
+                "hacking",
+                "lfi",
+                "local-file-inclusion",
+                "owasp",
+                "penetration-testing",
+                "php",
+                "sql-injection",
+                "sqli",
+                "vulnerability",
+                "xss"
+            ]
+        },
+        {
+            "name": "GFNet-Pytorch",
+            "topics": []
+        },
+        {
+            "name": "UI2I_via_StyleGAN2",
+            "topics": [
+                "image-translation",
+                "pytorch",
+                "stylegan2"
+            ]
+        },
+        {
+            "name": "coot-videotext",
+            "topics": []
+        },
+        {
+            "name": "ca-fires-history",
+            "topics": [
+                "disasters",
+                "fires",
+                "git-scraping"
+            ]
+        },
+        {
+            "name": "Cream",
+            "topics": []
+        },
+        {
+            "name": "python-csql",
+            "topics": []
+        },
+        {
+            "name": "javafx-examples",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "devfolio",
+            "topics": [
+                "gatbsy",
+                "personal-website",
+                "portfolio",
+                "portfolio-template",
+                "portfolio-website",
+                "tailwindcss"
+            ]
+        },
+        {
+            "name": "blazoract",
+            "topics": []
+        },
+        {
+            "name": "nimble",
+            "topics": [
+                "deep-learning",
+                "framework",
+                "gpu-task-scheduling",
+                "inference",
+                "parallel",
+                "training"
+            ]
+        },
+        {
+            "name": "kubecon-2020-workshop",
+            "topics": []
+        },
+        {
+            "name": "AutoAnnotationTool",
+            "topics": [
+                "annotation",
+                "annotation-tool",
+                "boundingbox",
+                "classification",
+                "computer-vision",
+                "cpp",
+                "dataset",
+                "deep-learning",
+                "image-annotation",
+                "image-annotation-tool",
+                "image-processing",
+                "labeling-tool",
+                "opencv",
+                "polygon-annotation",
+                "qml",
+                "qt",
+                "qt5",
+                "qtquick",
+                "semantic-segmentation"
+            ]
+        },
+        {
+            "name": "CardScanner",
+            "topics": []
+        },
+        {
+            "name": "spring-boot-route",
+            "topics": []
+        },
+        {
+            "name": "M-LOAM",
+            "topics": [
+                "calibration",
+                "lidar",
+                "robotics",
+                "slam"
+            ]
+        },
+        {
+            "name": "vector",
+            "topics": []
+        },
+        {
+            "name": "monthly-challenges",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "System.Graphics",
+            "topics": [
+                "csharp",
+                "skiasharp",
+                "uwp",
+                "wpf",
+                "xamarin",
+                "xamarin-android",
+                "xamarin-forms",
+                "xamarin-ios",
+                "xamarin-mac"
+            ]
+        },
+        {
+            "name": "simplepy",
+            "topics": []
+        },
+        {
+            "name": "remarkable2-framebuffer",
+            "topics": []
+        },
+        {
+            "name": "dddplus-demo",
+            "topics": [
+                "ddd",
+                "ddd-demo",
+                "ddd-example",
+                "dddplus",
+                "demo",
+                "headless-commerce",
+                "headless-components",
+                "hot-module-reloading",
+                "hotswap",
+                "hotswappable",
+                "java",
+                "oms",
+                "scaffold",
+                "skeleton"
+            ]
+        },
+        {
+            "name": "spider_draft",
+            "topics": []
+        },
+        {
+            "name": "PKUAutoSubmit",
+            "topics": []
+        },
+        {
+            "name": "React-docs-analyze",
+            "topics": []
+        },
+        {
+            "name": "notes",
+            "topics": []
+        },
+        {
+            "name": "whatsapp-api",
+            "topics": [
+                "bot",
+                "heroku",
+                "nodejs-api",
+                "qrcode",
+                "whatsapp",
+                "whatsapp-web"
+            ]
+        },
+        {
+            "name": "among-js",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "futureproof",
+            "topics": [
+                "freetype",
+                "glfw",
+                "glsl",
+                "neovim",
+                "shaderc",
+                "webgpu",
+                "ziglang"
+            ]
+        },
+        {
+            "name": "vue3-demo",
+            "topics": [
+                "composition-api",
+                "demo",
+                "proxy",
+                "reactive",
+                "todomvc",
+                "typescript",
+                "vite",
+                "vue-router4",
+                "vue3",
+                "vue3-demo",
+                "vue3-typescript",
+                "vuex4"
+            ]
+        },
+        {
+            "name": "vision-transformer-pytorch",
+            "topics": [
+                "pytorch",
+                "vision-transformer"
+            ]
+        },
+        {
+            "name": "Privlege_Escalation",
+            "topics": []
+        },
+        {
+            "name": "Code-with-love",
+            "topics": [
+                "algorithms",
+                "android",
+                "c",
+                "cpp",
+                "data-structures",
+                "good-first-issue",
+                "hacktoberfest",
+                "java",
+                "javascript",
+                "kotlin",
+                "php",
+                "python",
+                "searching-algorithms",
+                "sorting-algorithms"
+            ]
+        },
+        {
+            "name": "ego-planner-swarm",
+            "topics": []
+        },
+        {
+            "name": "burly.el",
+            "topics": [
+                "emacs"
+            ]
+        },
+        {
+            "name": "python-gerrit-api",
+            "topics": [
+                "api",
+                "gerrit",
+                "rest",
+                "rest-api",
+                "wrapper",
+                "wrapper-api"
+            ]
+        },
+        {
+            "name": "iPages",
+            "topics": []
+        },
+        {
+            "name": "net2net",
+            "topics": [
+                "autoencoders",
+                "gans",
+                "generative-model",
+                "inn",
+                "lightning",
+                "normalizing-flows",
+                "pytorch",
+                "pytorch-lightning",
+                "streamlit"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "ElasticAmbari",
+            "topics": [
+                "ambari",
+                "elastic",
+                "elasticsearch",
+                "elk",
+                "es",
+                "kibana",
+                "mpack"
+            ]
+        },
+        {
+            "name": "Resources",
+            "topics": []
+        },
+        {
+            "name": "vscode-stories-serverless-image-uploader",
+            "topics": []
+        },
+        {
+            "name": "rest-api-fuzz-testing",
+            "topics": [
+                "api",
+                "devops",
+                "fuzz",
+                "fuzzing",
+                "fuzzing-framework",
+                "rest",
+                "rest-api"
+            ]
+        },
+        {
+            "name": "Omniscent",
+            "topics": [
+                "3d",
+                "dos",
+                "javascript"
+            ]
+        },
+        {
+            "name": "yasd",
+            "topics": []
+        },
+        {
+            "name": "youtube-dl-react-viewer",
+            "topics": []
+        },
+        {
+            "name": "acot",
+            "topics": [
+                "a11y",
+                "accessibility",
+                "acot",
+                "audit",
+                "puppeteer",
+                "testing-framework",
+                "testing-tools"
+            ]
+        },
+        {
+            "name": "cpdaily",
+            "topics": []
+        },
+        {
+            "name": "Doge-Loader",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "alarmo",
+            "topics": [
+                "alarm",
+                "assistant",
+                "hass",
+                "home",
+                "integration",
+                "lovelace",
+                "security"
+            ]
+        },
+        {
+            "name": "complete-intro-to-databases",
+            "topics": []
+        },
+        {
+            "name": "JSA",
+            "topics": []
+        },
+        {
+            "name": "codexffmpeg",
+            "topics": []
+        },
+        {
+            "name": "LibraryBookSearchEngine",
+            "topics": []
+        },
+        {
+            "name": "cats-parse",
+            "topics": []
+        },
+        {
+            "name": "nvim-treesitter-context",
+            "topics": [
+                "neovim",
+                "neovim-plugin",
+                "vim",
+                "vim-plugin"
+            ]
+        },
+        {
+            "name": "WidgetExamples",
+            "topics": [
+                "appgroup-widget",
+                "coredata",
+                "deeplinks",
+                "demo",
+                "intent",
+                "ios14",
+                "ios14-widget",
+                "sirikit",
+                "swift",
+                "swiftui",
+                "userdefaults",
+                "widget",
+                "widgetkit"
+            ]
+        },
+        {
+            "name": "release-changelog-builder-action",
+            "topics": [
+                "action",
+                "actions",
+                "automation",
+                "cd",
+                "changelog",
+                "ci",
+                "github-actions",
+                "issues",
+                "labels",
+                "pull-requests",
+                "release",
+                "release-automation",
+                "release-notes",
+                "workflow"
+            ]
+        },
+        {
+            "name": "concrete",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "storefront-data-hooks",
+            "topics": []
+        },
+        {
+            "name": "datum",
+            "topics": [
+                "compiler",
+                "datum"
+            ]
+        },
+        {
+            "name": "freeproxy",
+            "topics": [
+                "free",
+                "proxy",
+                "proxy-list",
+                "proxy-server",
+                "ss",
+                "ssr",
+                "v2fly",
+                "v2ray",
+                "vmess",
+                "vmess-over-tls"
+            ]
+        },
+        {
+            "name": "alarm-dog",
+            "topics": [
+                "alarm",
+                "alarm-system",
+                "high-performance",
+                "hyperf",
+                "monitor",
+                "php",
+                "universal",
+                "vue"
+            ]
+        },
+        {
+            "name": "feedback",
+            "topics": [
+                "feedback",
+                "github",
+                "github-discussions",
+                "github-enterprise",
+                "github-mobile"
+            ]
+        },
+        {
+            "name": "pretty-snap",
+            "topics": []
+        },
+        {
+            "name": "zero-doc",
+            "topics": []
+        },
+        {
+            "name": "glyphs",
+            "topics": [
+                "figma",
+                "icons",
+                "svg",
+                "web-components"
+            ]
+        },
+        {
+            "name": "dddplus",
+            "topics": [
+                "business-architecture",
+                "complex-business-architecture",
+                "ddd",
+                "ddd-architecture",
+                "dddplus",
+                "domain-driven-development",
+                "ecosystem",
+                "enterprise-architecture",
+                "extension",
+                "flexible",
+                "framework",
+                "headless-commerce",
+                "java",
+                "landscape",
+                "plugin",
+                "productivity",
+                "productivity-tools",
+                "tools-engineering"
+            ]
+        },
+        {
+            "name": "lucky-canvas",
+            "topics": [
+                "canvas",
+                "javascript",
+                "js",
+                "ts",
+                "typescript"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "AmongUs-Mumble",
+            "topics": [
+                "among-us",
+                "amongus",
+                "detours",
+                "dll-hijacking",
+                "hooking",
+                "mod",
+                "mumble",
+                "voip"
+            ]
+        },
+        {
+            "name": "pms50-gns530",
+            "topics": []
+        },
+        {
+            "name": "PyTorch-Pretrained-ViT",
+            "topics": []
+        },
+        {
+            "name": "ImpostorModmenu",
+            "topics": []
+        },
+        {
+            "name": "Vertex",
+            "topics": [
+                "actor",
+                "cqrs",
+                "cqrs-es",
+                "distributed",
+                "event-driven",
+                "event-sourcing",
+                "orleans",
+                "saga"
+            ]
+        },
+        {
+            "name": "laravel-country-logomarks",
+            "topics": [
+                "branding-assets",
+                "laravel",
+                "logos"
+            ]
+        },
+        {
+            "name": "marv",
+            "topics": [
+                "anime",
+                "commands",
+                "marv",
+                "obs",
+                "obs-websocket",
+                "twitch"
+            ]
+        },
+        {
+            "name": "Grid",
+            "topics": []
+        },
+        {
+            "name": "svg-tag-mode",
+            "topics": [
+                "emacs",
+                "melpa",
+                "minor-mode",
+                "quelpa",
+                "svg",
+                "tags"
+            ]
+        },
+        {
+            "name": "gauge",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "languagepod101-scraper",
+            "topics": [
+                "beautifulsoup",
+                "chinese-language",
+                "course",
+                "download",
+                "japanese",
+                "japanese-language",
+                "japanesepod",
+                "japanesepod101",
+                "jpod101",
+                "language",
+                "language-learning",
+                "learn",
+                "learn-chinese",
+                "learn-japanese",
+                "learn-spanish",
+                "podcast",
+                "python",
+                "requests",
+                "scraping",
+                "spanish-language"
+            ]
+        },
+        {
+            "name": "iouring-go",
+            "topics": []
+        },
+        {
+            "name": "icons-font-customization",
+            "topics": []
+        },
+        {
+            "name": "GRF",
+            "topics": []
+        },
+        {
+            "name": "react-pokedex",
+            "topics": [
+                "react",
+                "redux-toolkit",
+                "tailwindcss",
+                "typescript"
+            ]
+        },
+        {
+            "name": "ChowMatrix",
+            "topics": []
+        },
+        {
+            "name": "procrustes",
+            "topics": []
+        },
+        {
+            "name": "libp2p-rs",
+            "topics": [
+                "async",
+                "libp2p",
+                "peer-to-peer",
+                "rust"
+            ]
+        },
+        {
+            "name": "lite",
+            "topics": [
+                "cross-platform",
+                "flutter",
+                "terminal",
+                "terminal-emulator"
+            ]
+        },
+        {
+            "name": "Hacktoberfest2020",
+            "topics": [
+                "beginner-friendly",
+                "cpp",
+                "csharp",
+                "dart",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "java",
+                "javascript",
+                "kotlin",
+                "other",
+                "python"
+            ]
+        }
+    ]
+]

@@ -1,0 +1,842 @@
+[
+    [
+        {
+            "name": "momo-code-sec-inspector-java",
+            "topics": [
+                "idea",
+                "java",
+                "sast"
+            ]
+        },
+        {
+            "name": "Xiaomi-cloud-tokens-extractor",
+            "topics": [
+                "roborock",
+                "xiaomi",
+                "xiaomi-vacuum"
+            ]
+        },
+        {
+            "name": "last-resort-font",
+            "topics": [
+                "font",
+                "truetype",
+                "ttf",
+                "unicode"
+            ]
+        },
+        {
+            "name": "swift-atomics",
+            "topics": []
+        },
+        {
+            "name": "bylibrary",
+            "topics": [
+                "baize",
+                "exp",
+                "poc",
+                "sec",
+                "security"
+            ]
+        },
+        {
+            "name": "Patched-Sur",
+            "topics": [
+                "big-sur",
+                "macos",
+                "macos-big-sur",
+                "patcher",
+                "ui-patcher",
+                "unsupported-macs"
+            ]
+        },
+        {
+            "name": "fast_float",
+            "topics": [
+                "cpp-library",
+                "cpp11",
+                "cpp17",
+                "freebsd",
+                "high-performance",
+                "linux",
+                "macos",
+                "visual-studio"
+            ]
+        },
+        {
+            "name": "register",
+            "topics": [
+                "dev",
+                "developer",
+                "foss",
+                "github-pages",
+                "hacktoberfest",
+                "subdomain",
+                "website"
+            ]
+        },
+        {
+            "name": "stat_rethinking_2020",
+            "topics": []
+        },
+        {
+            "name": "dosvpn",
+            "topics": [
+                "dosvpn",
+                "fanqiang",
+                "free",
+                "free-ss",
+                "free-ssr",
+                "gfw",
+                "http",
+                "lantern",
+                "pac",
+                "proxy",
+                "shadowrocket",
+                "shadowsocks",
+                "ss",
+                "ssr",
+                "trojan",
+                "v2fly",
+                "v2ray",
+                "vmess",
+                "vpn"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "faster-cpython",
+            "topics": []
+        },
+        {
+            "name": "imgcat",
+            "topics": [
+                "hacktoberfest",
+                "image",
+                "terminal"
+            ]
+        },
+        {
+            "name": "backend-interview-question",
+            "topics": []
+        },
+        {
+            "name": "plaiceholder",
+            "topics": [
+                "blurhash",
+                "css",
+                "image-optimisation",
+                "lqip",
+                "placeholder",
+                "plaiceholder"
+            ]
+        },
+        {
+            "name": "squire",
+            "topics": [
+                "eloquent",
+                "laravel",
+                "squire"
+            ]
+        },
+        {
+            "name": "lightly",
+            "topics": [
+                "computer-vision",
+                "deep-learning",
+                "embeddings",
+                "machine-learning",
+                "pytorch",
+                "self-supervised-learning"
+            ]
+        },
+        {
+            "name": "Math",
+            "topics": []
+        },
+        {
+            "name": "raspberry-pi-pcie-devices",
+            "topics": [
+                "aarch64",
+                "arm",
+                "arm64",
+                "cm4",
+                "compute-module",
+                "pcie",
+                "raspberry-pi"
+            ]
+        },
+        {
+            "name": "pytorch-original-transformer",
+            "topics": [
+                "attention",
+                "attention-is-all-you-need",
+                "attention-mechanism",
+                "deep-learning",
+                "deeplearning",
+                "jupyter",
+                "original-transformer",
+                "python",
+                "pytorch",
+                "pytorch-transformer",
+                "pytorch-transformers",
+                "transformer",
+                "transformer-tutorial",
+                "transformers"
+            ]
+        },
+        {
+            "name": "hairpin-proxy",
+            "topics": [
+                "cert-manager",
+                "coredns",
+                "ingress-controller",
+                "ingress-nginx",
+                "kubernetes",
+                "kubernetes-controller",
+                "load-balancer",
+                "proxy-protocol"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "corona-widget",
+            "topics": []
+        },
+        {
+            "name": "Scriptable",
+            "topics": [
+                "boxjs",
+                "scriptable",
+                "widget"
+            ]
+        },
+        {
+            "name": "binserve",
+            "topics": [
+                "actix",
+                "handlebars",
+                "http",
+                "http-server",
+                "rust",
+                "rust-lang",
+                "secure",
+                "security",
+                "server",
+                "static",
+                "static-server",
+                "static-site",
+                "static-website",
+                "web-server",
+                "webserver"
+            ]
+        },
+        {
+            "name": "libvineyard",
+            "topics": [
+                "big-data-analytics",
+                "distributed",
+                "distributed-comp",
+                "distributed-systems",
+                "graph-analytics",
+                "in-memory-storage",
+                "shared-memory"
+            ]
+        },
+        {
+            "name": "wax",
+            "topics": [
+                "c99",
+                "compiler",
+                "java",
+                "programming-language",
+                "transpiler",
+                "typescript"
+            ]
+        },
+        {
+            "name": "attestation-deplacement-derogatoire-q4-2020",
+            "topics": []
+        },
+        {
+            "name": "earlybird",
+            "topics": []
+        },
+        {
+            "name": "kord",
+            "topics": []
+        },
+        {
+            "name": "fourier_neural_operator",
+            "topics": [
+                "partial-differential-equations"
+            ]
+        },
+        {
+            "name": "data-science-competition",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "hypnotix",
+            "topics": []
+        },
+        {
+            "name": "ferminet",
+            "topics": []
+        },
+        {
+            "name": "CppGuide",
+            "topics": []
+        },
+        {
+            "name": "animal-matting",
+            "topics": [
+                "animal-matting",
+                "composition",
+                "datasets",
+                "image-matting",
+                "matting",
+                "segmentation"
+            ]
+        },
+        {
+            "name": "cmdchat",
+            "topics": []
+        },
+        {
+            "name": "KeyBERT",
+            "topics": [
+                "bert",
+                "keyphrase-extraction",
+                "keyword-extraction",
+                "mmr"
+            ]
+        },
+        {
+            "name": "MedMNIST",
+            "topics": [
+                "automl",
+                "benchmark",
+                "dataset",
+                "medical",
+                "medical-image-analysis",
+                "mnist"
+            ]
+        },
+        {
+            "name": "kubecolor",
+            "topics": [
+                "kubectl",
+                "kubernetes"
+            ]
+        },
+        {
+            "name": "t-rec-rs",
+            "topics": [
+                "chrome",
+                "command-line-tool",
+                "demo",
+                "fast",
+                "gif-creator",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "recorder",
+                "rust",
+                "screen-recorder",
+                "screen-recording",
+                "screenshot-generator",
+                "screenshot-utility",
+                "terminal-recording",
+                "vscode"
+            ]
+        },
+        {
+            "name": "flink-streaming-platform-web",
+            "topics": [
+                "flink"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "rtk-query",
+            "topics": [
+                "redux",
+                "redux-toolkit",
+                "rtk-query"
+            ]
+        },
+        {
+            "name": "livewire-charts",
+            "topics": []
+        },
+        {
+            "name": "vectorhub",
+            "topics": [
+                "artificial-intelligence",
+                "audio-processing",
+                "deep-learning",
+                "deeplearning",
+                "embeddings",
+                "encodings",
+                "image2vec",
+                "machine-learning",
+                "neural-network",
+                "python",
+                "pytorch",
+                "tensorflow",
+                "tfhub",
+                "transformers",
+                "vector",
+                "vector-similarity",
+                "video-processing",
+                "word2vec"
+            ]
+        },
+        {
+            "name": "GraphGym",
+            "topics": []
+        },
+        {
+            "name": "holmes",
+            "topics": []
+        },
+        {
+            "name": "guide-to-reactive-rails",
+            "topics": []
+        },
+        {
+            "name": "kvass",
+            "topics": [
+                "auto-scaling",
+                "kubernetes",
+                "monitoring",
+                "prometheus",
+                "shard",
+                "thanos"
+            ]
+        },
+        {
+            "name": "jsexpert01-skeleton-ew",
+            "topics": [
+                "javascript",
+                "js",
+                "media",
+                "netflix"
+            ]
+        },
+        {
+            "name": "informers",
+            "topics": [
+                "named-entity-recognition",
+                "question-answering",
+                "sentiment-analysis"
+            ]
+        },
+        {
+            "name": "Static-Program-Analysis-Book",
+            "topics": [
+                "analysis",
+                "gitbook"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "genshin-impact-wish-simulator",
+            "topics": [
+                "gacha",
+                "gacha-simulator",
+                "genshin",
+                "genshin-impact",
+                "genshinimpact",
+                "hacktober",
+                "hacktoberfest"
+            ]
+        },
+        {
+            "name": "barbar.nvim",
+            "topics": [
+                "neovim",
+                "neovim-plugin",
+                "vim",
+                "vim-plugin"
+            ]
+        },
+        {
+            "name": "keep3r.network",
+            "topics": []
+        },
+        {
+            "name": "cppwin32",
+            "topics": []
+        },
+        {
+            "name": "microsoft-teams-class-attender",
+            "topics": []
+        },
+        {
+            "name": "dataclassframe",
+            "topics": []
+        },
+        {
+            "name": "hifi-gan",
+            "topics": [
+                "deep-learning",
+                "gan",
+                "hifi-gan",
+                "pytorch",
+                "speech-synthesis",
+                "text-to-speech",
+                "tts",
+                "vocoder"
+            ]
+        },
+        {
+            "name": "ascii-webcam",
+            "topics": []
+        },
+        {
+            "name": "loruki-website",
+            "topics": []
+        },
+        {
+            "name": "SMARTS",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "apex-recipes",
+            "topics": [
+                "apex",
+                "async",
+                "cache",
+                "integration",
+                "invocable",
+                "salesforce",
+                "trigger"
+            ]
+        },
+        {
+            "name": "sam",
+            "topics": [
+                "optimizer",
+                "pytorch",
+                "sam",
+                "sharpness-aware"
+            ]
+        },
+        {
+            "name": "gosivy",
+            "topics": [
+                "go",
+                "golang",
+                "monitoring",
+                "tui",
+                "visualization"
+            ]
+        },
+        {
+            "name": "vscode-stories-api",
+            "topics": []
+        },
+        {
+            "name": "Funkin",
+            "topics": []
+        },
+        {
+            "name": "BERT-flow",
+            "topics": []
+        },
+        {
+            "name": "fuse-query",
+            "topics": [
+                "clickhouse",
+                "database",
+                "distributed-computing",
+                "olap",
+                "parallelism",
+                "query-engine",
+                "query-processing",
+                "rust",
+                "simd",
+                "sql"
+            ]
+        },
+        {
+            "name": "MultiplayerExtensions",
+            "topics": []
+        },
+        {
+            "name": "Chronos",
+            "topics": [
+                "analysis",
+                "data-race-detection",
+                "detection",
+                "detects-races",
+                "go",
+                "golang",
+                "mutex-synchronisation",
+                "pointer-analysis",
+                "race-condition",
+                "race-conditions",
+                "race-detection",
+                "ssa",
+                "static-analysis",
+                "static-code-analysis",
+                "synchronization"
+            ]
+        },
+        {
+            "name": "RabbitUI",
+            "topics": [
+                "components-library",
+                "javascript",
+                "less",
+                "rabbit-ui",
+                "typescript",
+                "ui",
+                "ui-components",
+                "ui-design"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "pyspark-style-guide",
+            "topics": [
+                "octo-correct-managed"
+            ]
+        },
+        {
+            "name": "jd-scripts-docker",
+            "topics": [
+                "docker",
+                "docker-compose"
+            ]
+        },
+        {
+            "name": "SentAugment",
+            "topics": []
+        },
+        {
+            "name": "MathToolsforNeuroscience",
+            "topics": []
+        },
+        {
+            "name": "shaders",
+            "topics": []
+        },
+        {
+            "name": "vendor-reset",
+            "topics": []
+        },
+        {
+            "name": "AlgoNotes",
+            "topics": []
+        },
+        {
+            "name": "StructLayout",
+            "topics": [
+                "clang-libtooling",
+                "cpp",
+                "memory-management",
+                "structlayout",
+                "visual-studio",
+                "visual-studio-extension"
+            ]
+        },
+        {
+            "name": "personal-kanban",
+            "topics": [
+                "agile",
+                "agile-board",
+                "agile-development",
+                "kanban",
+                "kanban-board",
+                "kanban-board-application",
+                "materail-design",
+                "material-ui",
+                "minimalist-design",
+                "offline",
+                "privacy",
+                "productivity",
+                "productivity-tools",
+                "react",
+                "self-improvement",
+                "typescript"
+            ]
+        },
+        {
+            "name": "howtopopbuntu",
+            "topics": [
+                "custom-resolution",
+                "debian",
+                "elementaryos",
+                "gnome-tweak",
+                "pop-os",
+                "preferred-apps",
+                "refresh-rates",
+                "tweaks",
+                "ubuntu"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "YXing",
+            "topics": []
+        },
+        {
+            "name": "go-password-validator",
+            "topics": [
+                "character",
+                "entropy",
+                "golang",
+                "golang-package",
+                "security",
+                "strength"
+            ]
+        },
+        {
+            "name": "3d-card-effect",
+            "topics": []
+        },
+        {
+            "name": "vedadet",
+            "topics": [
+                "object-detection",
+                "pytorch",
+                "single-stage",
+                "toolbox"
+            ]
+        },
+        {
+            "name": "whatsapp-bot",
+            "topics": [
+                "alquran",
+                "database",
+                "downloader",
+                "nhentai",
+                "nodejs",
+                "nulis",
+                "simisimi",
+                "stickers",
+                "whatsapp-bot",
+                "youtube"
+            ]
+        },
+        {
+            "name": "cmake-examples-Chinese",
+            "topics": [
+                "cmake-examples"
+            ]
+        },
+        {
+            "name": "TaoBaoScripts",
+            "topics": []
+        },
+        {
+            "name": "grid_royale",
+            "topics": [
+                "ai",
+                "hacktoberfest",
+                "keras",
+                "machine-learning",
+                "python",
+                "q-learning",
+                "reinforcement-learning"
+            ]
+        },
+        {
+            "name": "react-three-editable",
+            "topics": [
+                "3d",
+                "editor",
+                "react",
+                "react-three-fiber",
+                "threejs",
+                "webgl"
+            ]
+        },
+        {
+            "name": "vtracer",
+            "topics": [
+                "image-procesing",
+                "rust",
+                "svg"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "450-DSA",
+            "topics": [
+                "algorithms",
+                "competitive-programming",
+                "data-structures",
+                "dsa",
+                "dsa-algorithm",
+                "placements"
+            ]
+        },
+        {
+            "name": "HomeCenter",
+            "topics": [
+                "ddns",
+                "file-manager",
+                "ssh-tunnel",
+                "ssr"
+            ]
+        },
+        {
+            "name": "O266player",
+            "topics": []
+        },
+        {
+            "name": "fvid",
+            "topics": [
+                "ffmpeg",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "open-source",
+                "pillow",
+                "video",
+                "youtube"
+            ]
+        },
+        {
+            "name": "PPScan",
+            "topics": []
+        },
+        {
+            "name": "nerfplusplus",
+            "topics": []
+        },
+        {
+            "name": "Iris",
+            "topics": []
+        },
+        {
+            "name": "AiLearning-Theory-Applying",
+            "topics": []
+        },
+        {
+            "name": "galaxyline.nvim",
+            "topics": []
+        },
+        {
+            "name": "pytorch-faster-rcnn",
+            "topics": [
+                "detection",
+                "faster-rcnn",
+                "pytorch"
+            ]
+        }
+    ]
+]

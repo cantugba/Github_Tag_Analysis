@@ -1,0 +1,764 @@
+[
+    [
+        {
+            "name": "full-stack-serverless-cdk",
+            "topics": [
+                "appsync",
+                "aws",
+                "aws-cdk",
+                "dynamodb",
+                "eventbridge",
+                "lambda-functions",
+                "serverless",
+                "serverless-saas"
+            ]
+        },
+        {
+            "name": "whatsapp-ux-redesign",
+            "topics": []
+        },
+        {
+            "name": "awesome-frontendmasters",
+            "topics": [
+                "angular",
+                "awesome",
+                "awesome-list",
+                "d3",
+                "frontendmasters",
+                "gatsby",
+                "javascript",
+                "nodejs",
+                "react",
+                "typescript",
+                "vue"
+            ]
+        },
+        {
+            "name": "AggressiveProxy",
+            "topics": [
+                "cobaltstrike",
+                "cobaltstrike-cna",
+                "redteam",
+                "redteam-tools"
+            ]
+        },
+        {
+            "name": "banners",
+            "topics": []
+        },
+        {
+            "name": "p-state",
+            "topics": [
+                "inspect",
+                "introspection",
+                "npm-package",
+                "promise"
+            ]
+        },
+        {
+            "name": "BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo",
+            "topics": [
+                "ai",
+                "bot",
+                "bots"
+            ]
+        },
+        {
+            "name": "jwtXploiter",
+            "topics": [
+                "ctf",
+                "ctf-tools",
+                "jku",
+                "jsonwebtoken",
+                "jwks",
+                "jwt",
+                "jwt-cracker",
+                "jwt-exploit",
+                "jwt-security",
+                "penetration-testing",
+                "penetration-testing-tools",
+                "pentest",
+                "pentest-tool",
+                "pentesting",
+                "pentesting-tools",
+                "security",
+                "security-tools",
+                "websecurity",
+                "x5u-injection"
+            ]
+        },
+        {
+            "name": "xwm",
+            "topics": [
+                "c99",
+                "misra-c",
+                "posix",
+                "window-manager",
+                "wm",
+                "xcb"
+            ]
+        },
+        {
+            "name": "Player",
+            "topics": [
+                "android",
+                "exoplayer",
+                "exoplayer2",
+                "video-player"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "lemonj",
+            "topics": [
+                "css",
+                "less",
+                "refactoring",
+                "scss"
+            ]
+        },
+        {
+            "name": "BetterImage.JS",
+            "topics": []
+        },
+        {
+            "name": "next-api-middleware",
+            "topics": [
+                "api-middleware",
+                "api-routes",
+                "koajs",
+                "middleware",
+                "middleware-functions",
+                "next",
+                "nextjs",
+                "nodejs",
+                "react"
+            ]
+        },
+        {
+            "name": "hotpatch",
+            "topics": []
+        },
+        {
+            "name": "jsondiff",
+            "topics": [
+                "diff",
+                "go",
+                "golang",
+                "json",
+                "json-patch",
+                "rfc6902"
+            ]
+        },
+        {
+            "name": "onlytech-javascript-info",
+            "topics": []
+        },
+        {
+            "name": "DualSense-Windows",
+            "topics": [
+                "api",
+                "bluetooth",
+                "controler",
+                "dualsense",
+                "dualsense5",
+                "gamepad",
+                "gamepad-api",
+                "playstation",
+                "ps5-controller",
+                "sdk",
+                "usb",
+                "usb-hid"
+            ]
+        },
+        {
+            "name": "TPScan",
+            "topics": []
+        },
+        {
+            "name": "pixel-level-contrastive-learning",
+            "topics": [
+                "artificial-intelligence",
+                "contrastive-learning",
+                "deep-learning",
+                "self-supervised-learning"
+            ]
+        },
+        {
+            "name": "ApiTest",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "Chain.jl",
+            "topics": [
+                "data-analysis",
+                "data-science",
+                "julia",
+                "julia-language",
+                "julia-package",
+                "macro",
+                "pipeline"
+            ]
+        },
+        {
+            "name": "nmaps",
+            "topics": []
+        },
+        {
+            "name": "serverless-rocketseat",
+            "topics": []
+        },
+        {
+            "name": "MVVMRecipeApp",
+            "topics": []
+        },
+        {
+            "name": "web-vitals-report",
+            "topics": []
+        },
+        {
+            "name": "flutter-interview-questions",
+            "topics": [
+                "dart",
+                "flutter",
+                "interview-questions"
+            ]
+        },
+        {
+            "name": "liz",
+            "topics": []
+        },
+        {
+            "name": "Keybon",
+            "topics": []
+        },
+        {
+            "name": "Quantum-Computing-Collection-Of-Resources",
+            "topics": [
+                "cern",
+                "ibm",
+                "jupyter-notebook",
+                "matplotlib",
+                "numpy",
+                "python",
+                "qiskit",
+                "qiskit-aqua",
+                "qiskit-ibm-sdk",
+                "qiskit-practice",
+                "qiskit-tips-and-tricks",
+                "qiskit-tutorial",
+                "quantum",
+                "quantum-algorithms",
+                "quantum-computing",
+                "quantum-information",
+                "quantum-mechanics",
+                "qubits",
+                "qworld"
+            ]
+        },
+        {
+            "name": "HAWQ",
+            "topics": [
+                "4-bit",
+                "8-bit",
+                "distillation",
+                "efficient-neural-networks",
+                "hardware-aware",
+                "hessian",
+                "mixed-precision",
+                "model-compression",
+                "pytorch",
+                "quantization",
+                "quantized-neural-networks",
+                "tensorcore",
+                "tvm"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "next.js-cdk-amplify-workshop",
+            "topics": []
+        },
+        {
+            "name": "languagepod101-scraper",
+            "topics": [
+                "beautifulsoup",
+                "chinese-language",
+                "course",
+                "download",
+                "japanese",
+                "japanese-language",
+                "japanesepod",
+                "japanesepod101",
+                "jpod101",
+                "language",
+                "language-learning",
+                "learn",
+                "learn-chinese",
+                "learn-japanese",
+                "learn-spanish",
+                "podcast",
+                "python",
+                "requests",
+                "scraping",
+                "spanish-language"
+            ]
+        },
+        {
+            "name": "svelte-actions",
+            "topics": []
+        },
+        {
+            "name": "M1-Linux-SSH",
+            "topics": []
+        },
+        {
+            "name": "ladder",
+            "topics": []
+        },
+        {
+            "name": "cvelist",
+            "topics": []
+        },
+        {
+            "name": "awesome-open-source-by-country-or-region",
+            "topics": [
+                "awesome-list",
+                "country",
+                "made-by",
+                "made-in",
+                "oss"
+            ]
+        },
+        {
+            "name": "makeaplan_public",
+            "topics": [
+                "apple-store",
+                "dart",
+                "flutter",
+                "flutter-app",
+                "go",
+                "grpc",
+                "ios",
+                "protobuf"
+            ]
+        },
+        {
+            "name": "mainargs",
+            "topics": []
+        },
+        {
+            "name": "github-actions-youtube-dl",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "MULLS",
+            "topics": []
+        },
+        {
+            "name": "game-and-watch-retro-go",
+            "topics": []
+        },
+        {
+            "name": "Experienced-Pentester-OSEP",
+            "topics": []
+        },
+        {
+            "name": "JupyterPen",
+            "topics": []
+        },
+        {
+            "name": "s3ar",
+            "topics": []
+        },
+        {
+            "name": "gym-cooking",
+            "topics": []
+        },
+        {
+            "name": "php-fetch",
+            "topics": [
+                "fetch",
+                "fetch-api",
+                "http",
+                "http-client",
+                "php",
+                "php7",
+                "response",
+                "streams",
+                "web-api"
+            ]
+        },
+        {
+            "name": "4D-Facial-Avatars",
+            "topics": []
+        },
+        {
+            "name": "ncnn-android-yolov5",
+            "topics": []
+        },
+        {
+            "name": "chatbot",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "txtai.js",
+            "topics": [
+                "javascript",
+                "machine-learning",
+                "nlp",
+                "search"
+            ]
+        },
+        {
+            "name": "Post-Pages-to-IPFS",
+            "topics": []
+        },
+        {
+            "name": "carplay-cast",
+            "topics": []
+        },
+        {
+            "name": "Catalyst",
+            "topics": []
+        },
+        {
+            "name": "bizar.ro",
+            "topics": [
+                "javascript",
+                "ogl",
+                "shaders",
+                "webgl"
+            ]
+        },
+        {
+            "name": "SmartBlocks",
+            "topics": []
+        },
+        {
+            "name": "pwk",
+            "topics": []
+        },
+        {
+            "name": "neurst",
+            "topics": []
+        },
+        {
+            "name": "laravel-ray",
+            "topics": [
+                "debug",
+                "laravel",
+                "php"
+            ]
+        },
+        {
+            "name": "pistorm",
+            "topics": [
+                "amiga",
+                "raspberry"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "backtrace",
+            "topics": [
+                "debugging",
+                "php"
+            ]
+        },
+        {
+            "name": "among-us-protocol",
+            "topics": [
+                "among-us",
+                "amongus",
+                "decompile",
+                "innersloth",
+                "packet",
+                "protocol"
+            ]
+        },
+        {
+            "name": "menu",
+            "topics": [
+                "ios",
+                "react-native",
+                "uiaction",
+                "uimenu"
+            ]
+        },
+        {
+            "name": "Sapphire-Assistant-Framework",
+            "topics": [
+                "alexa",
+                "android",
+                "android-phones",
+                "assistant",
+                "foss",
+                "mycroft",
+                "offline",
+                "sapphire-assistant-framework",
+                "siri"
+            ]
+        },
+        {
+            "name": "Nimplant",
+            "topics": []
+        },
+        {
+            "name": "xpcspy",
+            "topics": [
+                "frida",
+                "ios",
+                "macos",
+                "xnu",
+                "xpc"
+            ]
+        },
+        {
+            "name": "100",
+            "topics": []
+        },
+        {
+            "name": "speechly_expense_tracker_project",
+            "topics": [
+                "contextapi",
+                "localstorage",
+                "materialui",
+                "react",
+                "reactjs",
+                "speechly"
+            ]
+        },
+        {
+            "name": "SocialMedia-App",
+            "topics": [
+                "firebase",
+                "flutter",
+                "flutter-apps",
+                "flutter-examples",
+                "social",
+                "social-media",
+                "social-network",
+                "socialmedia",
+                "ui",
+                "uikit"
+            ]
+        },
+        {
+            "name": "snack",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "java-load",
+            "topics": [
+                "java",
+                "java-se"
+            ]
+        },
+        {
+            "name": "flux2-kustomize-helm-example",
+            "topics": [
+                "gitops",
+                "helm",
+                "kubernetes",
+                "kustomize"
+            ]
+        },
+        {
+            "name": "attack-guardduty-navigator",
+            "topics": []
+        },
+        {
+            "name": "next-tailwind-framermotion",
+            "topics": []
+        },
+        {
+            "name": "container-security-book",
+            "topics": [
+                "container",
+                "security"
+            ]
+        },
+        {
+            "name": "k0otkit",
+            "topics": []
+        },
+        {
+            "name": "pattern-matching-ts",
+            "topics": [
+                "fp",
+                "fp-ts",
+                "functional-programming",
+                "matching",
+                "option-monad",
+                "pattern",
+                "pattern-matching",
+                "typescript",
+                "typescript-pattern-matching"
+            ]
+        },
+        {
+            "name": "Squrl",
+            "topics": [
+                "data-visualization",
+                "database",
+                "database-gui",
+                "dummy-data-generator",
+                "kpis",
+                "sql"
+            ]
+        },
+        {
+            "name": "SHAPESHIFTER",
+            "topics": []
+        },
+        {
+            "name": "wdr-render-basic",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "charts",
+            "topics": []
+        },
+        {
+            "name": "TwitchRecover",
+            "topics": [
+                "downloading-vods",
+                "recover",
+                "recover-files",
+                "recovering-data",
+                "recovery",
+                "stream",
+                "streamer",
+                "streamer-tool",
+                "streaming",
+                "twitch",
+                "twitch-api",
+                "twitch-servers",
+                "twitch-tv",
+                "twitchtv",
+                "vod-links",
+                "vods"
+            ]
+        },
+        {
+            "name": "lispe",
+            "topics": [
+                "data-structures",
+                "function-composition",
+                "haskell-like-high-level-function",
+                "interpreter",
+                "language",
+                "lazy-evaluation",
+                "lisp",
+                "pattern-programming"
+            ]
+        },
+        {
+            "name": "RemotePlayWhatever",
+            "topics": [
+                "remote-play",
+                "steam",
+                "unlocker"
+            ]
+        },
+        {
+            "name": "Springboot-dms",
+            "topics": []
+        },
+        {
+            "name": "python-deequ",
+            "topics": []
+        },
+        {
+            "name": "ketu",
+            "topics": []
+        },
+        {
+            "name": "Udemy_bot",
+            "topics": [
+                "bot",
+                "chrome",
+                "python",
+                "pythonbot",
+                "udemy",
+                "udemy-course",
+                "webscraping"
+            ]
+        },
+        {
+            "name": "btcticker",
+            "topics": [
+                "cryptocurrency",
+                "e-paper",
+                "raspberry-pi"
+            ]
+        },
+        {
+            "name": "DS-Net",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "theme-check",
+            "topics": []
+        },
+        {
+            "name": "RPS-View",
+            "topics": []
+        },
+        {
+            "name": "wx2",
+            "topics": []
+        },
+        {
+            "name": "ideia-unica",
+            "topics": []
+        },
+        {
+            "name": "passive-ssh",
+            "topics": [
+                "hassh",
+                "passive-ssh",
+                "passive-ssh-server",
+                "ssh",
+                "ssh-scanner",
+                "threat-intelligence"
+            ]
+        },
+        {
+            "name": "awesome-research-proposals-guide",
+            "topics": []
+        },
+        {
+            "name": "JD-scripts",
+            "topics": []
+        },
+        {
+            "name": "localizator",
+            "topics": []
+        },
+        {
+            "name": "Full-Weatherline-Widget",
+            "topics": []
+        },
+        {
+            "name": "prism",
+            "topics": []
+        }
+    ]
+]

@@ -1,0 +1,804 @@
+[
+    [
+        {
+            "name": "nav-url",
+            "topics": []
+        },
+        {
+            "name": "commerce-framework",
+            "topics": []
+        },
+        {
+            "name": "3D-parallax",
+            "topics": []
+        },
+        {
+            "name": "responsive-website-restaurant",
+            "topics": [
+                "responsive-web-design",
+                "responsive-website",
+                "website-design"
+            ]
+        },
+        {
+            "name": "doc-skanner",
+            "topics": [
+                "android",
+                "android-application",
+                "computer-vision",
+                "doc-scanner",
+                "document-scanner",
+                "opencv"
+            ]
+        },
+        {
+            "name": "php-crater",
+            "topics": []
+        },
+        {
+            "name": "blender-resources",
+            "topics": []
+        },
+        {
+            "name": "xml-roundtrip-validator",
+            "topics": []
+        },
+        {
+            "name": "VfxBokeh",
+            "topics": []
+        },
+        {
+            "name": "robot",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "browservm.js",
+            "topics": []
+        },
+        {
+            "name": "hackernews2remarkable",
+            "topics": [
+                "hacker-news",
+                "remarkable-tablet"
+            ]
+        },
+        {
+            "name": "laravel-easypanel",
+            "topics": [
+                "laravel",
+                "laravel-admin-panel",
+                "laravel-package",
+                "laravel-panel",
+                "livewire",
+                "php"
+            ]
+        },
+        {
+            "name": "KuiBaDB",
+            "topics": [
+                "columnar-storage",
+                "olap",
+                "postgres",
+                "postgresql",
+                "rust",
+                "rust-lang",
+                "vectorized-computation"
+            ]
+        },
+        {
+            "name": "timebomb",
+            "topics": []
+        },
+        {
+            "name": "ComposePictures",
+            "topics": [
+                "architecture",
+                "dagger-hilt",
+                "datastore",
+                "flow",
+                "jetpack-compose",
+                "jetpack-navigation",
+                "kotlin-flow",
+                "navigation-components"
+            ]
+        },
+        {
+            "name": "FreeCADSimulator",
+            "topics": []
+        },
+        {
+            "name": "freqbench",
+            "topics": [
+                "alpine",
+                "android",
+                "benchmark",
+                "cpu",
+                "efficiency",
+                "energy"
+            ]
+        },
+        {
+            "name": "HoshinoBot-plugins-index",
+            "topics": []
+        },
+        {
+            "name": "zigmod",
+            "topics": [
+                "package-manager",
+                "zig"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "planton",
+            "topics": []
+        },
+        {
+            "name": "HGS-CVRP",
+            "topics": []
+        },
+        {
+            "name": "world-ranks",
+            "topics": []
+        },
+        {
+            "name": "DInvisibleRegistry",
+            "topics": []
+        },
+        {
+            "name": "seq2seq-layout-analysis",
+            "topics": []
+        },
+        {
+            "name": "FractalDB-Pretrained-ResNet-PyTorch",
+            "topics": []
+        },
+        {
+            "name": "RECCON",
+            "topics": [
+                "bert-model",
+                "causal-inference",
+                "causal-models",
+                "causal-spans",
+                "causality",
+                "conversations",
+                "dataset",
+                "dialogue-generation",
+                "dialogue-systems",
+                "emotion",
+                "emotion-cause",
+                "emotion-cause-pair-extraction",
+                "emotion-recognition",
+                "emotion-recognition-in-conversation",
+                "emotion-tasks",
+                "inference",
+                "natural-language-inference",
+                "reasoning",
+                "roberta"
+            ]
+        },
+        {
+            "name": "pagedreport",
+            "topics": []
+        },
+        {
+            "name": "bitsdojo_window",
+            "topics": []
+        },
+        {
+            "name": "android-sitemap",
+            "topics": [
+                "android",
+                "android-apps",
+                "android-dev-summit",
+                "android-developers",
+                "android-devices",
+                "android-ml",
+                "android-platform",
+                "android-security",
+                "android-sitemap",
+                "android-study",
+                "android-things",
+                "api-diffs",
+                "chrome-os",
+                "codelabs",
+                "jetpack",
+                "kotlin",
+                "learn-android",
+                "sitemap",
+                "wear-os"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "ptswarm-twitter",
+            "topics": []
+        },
+        {
+            "name": "awesome-canbus",
+            "topics": [
+                "arduino",
+                "automotive",
+                "bus-monitoring",
+                "can",
+                "can-bus",
+                "can-fd",
+                "canbus",
+                "canfd",
+                "canutils",
+                "car-hacking",
+                "elm327",
+                "embedded",
+                "j2534",
+                "lawicel",
+                "logger",
+                "obd2",
+                "slcan",
+                "sniffer",
+                "socketcan",
+                "stm32"
+            ]
+        },
+        {
+            "name": "mnist1d",
+            "topics": [
+                "convnet",
+                "dataset",
+                "machine-learning",
+                "neural-networks",
+                "pytorch",
+                "research"
+            ]
+        },
+        {
+            "name": "cmd-tutorial",
+            "topics": []
+        },
+        {
+            "name": "FancyLocationProvider",
+            "topics": [
+                "android",
+                "androidlocation",
+                "flow",
+                "livedata"
+            ]
+        },
+        {
+            "name": "BT-Remote",
+            "topics": []
+        },
+        {
+            "name": "event-emitter",
+            "topics": [
+                "event-emitter",
+                "events",
+                "javascript",
+                "nest",
+                "nestjs",
+                "node",
+                "nodejs",
+                "typescript"
+            ]
+        },
+        {
+            "name": "selavi",
+            "topics": []
+        },
+        {
+            "name": "Weaponry",
+            "topics": []
+        },
+        {
+            "name": "microservices-change-data-capture-with-debezium",
+            "topics": [
+                "aspnetcore",
+                "changedatacapture",
+                "debezium",
+                "debeziumkafkaconnector",
+                "kafka",
+                "microservices",
+                "outbox-pattern"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Anuvaad",
+            "topics": [
+                "hindi",
+                "india",
+                "indic-languages",
+                "kannada",
+                "malayalam",
+                "marathi",
+                "mt5",
+                "multilingual",
+                "nlp",
+                "tamil",
+                "telugu",
+                "transformer",
+                "transformers",
+                "translation"
+            ]
+        },
+        {
+            "name": "Text-Summarization-Repo",
+            "topics": [
+                "datasets",
+                "nlp",
+                "paper",
+                "summary",
+                "text-summarization"
+            ]
+        },
+        {
+            "name": "arewewaylandyet",
+            "topics": [
+                "gnome",
+                "hugo",
+                "kde",
+                "sway",
+                "typescript",
+                "wayland",
+                "wayland-compositor",
+                "wayland-protocol"
+            ]
+        },
+        {
+            "name": "termplot",
+            "topics": []
+        },
+        {
+            "name": "ares",
+            "topics": [
+                "2b2t",
+                "anarchy",
+                "java",
+                "minecraft"
+            ]
+        },
+        {
+            "name": "OwlcatMonoProfiler",
+            "topics": []
+        },
+        {
+            "name": "Shadowrocket-Script",
+            "topics": []
+        },
+        {
+            "name": "autobuy-jd",
+            "topics": []
+        },
+        {
+            "name": "fuzzDicts",
+            "topics": []
+        },
+        {
+            "name": "azure-functions-dotnet-worker-preview",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "evil-jar",
+            "topics": []
+        },
+        {
+            "name": "nextjs-101",
+            "topics": []
+        },
+        {
+            "name": "hiccup-d3",
+            "topics": [
+                "charts",
+                "d3js",
+                "hiccup",
+                "visualizations"
+            ]
+        },
+        {
+            "name": "wdr-loader",
+            "topics": []
+        },
+        {
+            "name": "chessmsgs",
+            "topics": [
+                "chess-game",
+                "games"
+            ]
+        },
+        {
+            "name": "wave-apps",
+            "topics": []
+        },
+        {
+            "name": "FastCampus",
+            "topics": [
+                "coding-test",
+                "fast-campus",
+                "problem-solving"
+            ]
+        },
+        {
+            "name": "microservice-demo",
+            "topics": [
+                "docker",
+                "grpc",
+                "grpc-gateway",
+                "microservice",
+                "microservice-demo",
+                "mongodb",
+                "nodejs",
+                "proxy-server",
+                "python",
+                "ruby",
+                "writing-microservices"
+            ]
+        },
+        {
+            "name": "duct",
+            "topics": [
+                "docker",
+                "docker-compose",
+                "framework",
+                "golang",
+                "integration-testing"
+            ]
+        },
+        {
+            "name": "TikTok-Follow-Heart-Views-Bot",
+            "topics": [
+                "bot",
+                "bot-tiktok",
+                "followers-tiktok",
+                "free-bot",
+                "heart",
+                "heart-tiktok",
+                "tiktok",
+                "tiktok-api",
+                "tiktok-automation",
+                "tiktok-bot",
+                "tiktok-follow",
+                "tiktok-follow-bot",
+                "tiktok-followers",
+                "tiktok-followers-bot",
+                "tiktok-heart",
+                "tiktok-python",
+                "tiktok-scraper",
+                "tiktok-views",
+                "tiktokbot",
+                "views-bot"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "kubectl-view-webhook",
+            "topics": [
+                "admission-webhook",
+                "go",
+                "golang",
+                "krew",
+                "kubectl",
+                "kubectl-plugin",
+                "kubernetes"
+            ]
+        },
+        {
+            "name": "miniselect",
+            "topics": [
+                "cxx",
+                "cxx11",
+                "partial-sort",
+                "partial-sorting-algorithms",
+                "selection-algorithms",
+                "sorting-algorithms"
+            ]
+        },
+        {
+            "name": "pen_300_osep_prep",
+            "topics": []
+        },
+        {
+            "name": "DIGIX_CV_TIME_TOP3",
+            "topics": [
+                "digix",
+                "digix-cv",
+                "huawei",
+                "image-retrieval"
+            ]
+        },
+        {
+            "name": "go-mitmproxy",
+            "topics": [
+                "http",
+                "http-proxy",
+                "https",
+                "https-proxy",
+                "mitm",
+                "mitmproxy"
+            ]
+        },
+        {
+            "name": "paper_reading",
+            "topics": []
+        },
+        {
+            "name": "joplin-note-tabs",
+            "topics": [
+                "breadcrumbs",
+                "desktop-app",
+                "joplin",
+                "plugin",
+                "tabs"
+            ]
+        },
+        {
+            "name": "lorawan-node-simulator",
+            "topics": [
+                "iot",
+                "lorawan",
+                "lpwan",
+                "network-simulation",
+                "simulation"
+            ]
+        },
+        {
+            "name": "java-wdb",
+            "topics": []
+        },
+        {
+            "name": "digix2020_ctr_rank1",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "tixyz",
+            "topics": []
+        },
+        {
+            "name": "Project18-B-Web-Duxit",
+            "topics": [
+                "node-js",
+                "scss",
+                "socket-io",
+                "vanilla-javascript",
+                "webgame",
+                "webrtc"
+            ]
+        },
+        {
+            "name": "httpdump",
+            "topics": [
+                "laravel"
+            ]
+        },
+        {
+            "name": "phoenix_example",
+            "topics": [
+                "deployment",
+                "digitalocean",
+                "heroku",
+                "phoenix",
+                "render"
+            ]
+        },
+        {
+            "name": "zhtts",
+            "topics": [
+                "chinese",
+                "speech",
+                "tts"
+            ]
+        },
+        {
+            "name": "compact-wsl2-disk",
+            "topics": []
+        },
+        {
+            "name": "cloud-native-micro-service-engineering",
+            "topics": []
+        },
+        {
+            "name": "OverlapPredator",
+            "topics": [
+                "3dvision",
+                "point-cloud",
+                "registration"
+            ]
+        },
+        {
+            "name": "Malware-Feed",
+            "topics": [
+                "advanced-persistent-threat",
+                "advanced-persistent-threat-data",
+                "cyber-security",
+                "cybersecurity",
+                "infosec",
+                "iocs",
+                "malware",
+                "malware-analysis",
+                "malware-detection",
+                "malware-research",
+                "malware-sample",
+                "malware-samples",
+                "malwareanalysis",
+                "threat-hunting",
+                "threat-intel",
+                "threat-intelligence",
+                "threatintel",
+                "virus-scanning",
+                "viruses",
+                "virustotal"
+            ]
+        },
+        {
+            "name": "kaggle_moa_winner_hungry_for_gold",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "rexsser",
+            "topics": []
+        },
+        {
+            "name": "rspatial-map-challenge-2020",
+            "topics": [
+                "30daymapchallenge",
+                "cartography",
+                "maps",
+                "rspatial",
+                "rstats"
+            ]
+        },
+        {
+            "name": "GenshinDailyHelper",
+            "topics": []
+        },
+        {
+            "name": "yandex_smart_home_fix",
+            "topics": []
+        },
+        {
+            "name": "teoSQL-V2",
+            "topics": []
+        },
+        {
+            "name": "shakesearch",
+            "topics": []
+        },
+        {
+            "name": "awesome_slam_computer_vision_resources",
+            "topics": []
+        },
+        {
+            "name": "reactive",
+            "topics": []
+        },
+        {
+            "name": "ego",
+            "topics": [
+                "ego",
+                "gin",
+                "go",
+                "grpc",
+                "http",
+                "microservice"
+            ]
+        },
+        {
+            "name": "thock",
+            "topics": [
+                "brick",
+                "haskell",
+                "tui",
+                "typing-practice",
+                "websockets"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "meme-vibing-cat",
+            "topics": [
+                "meme",
+                "meme-generator",
+                "vibing-cat"
+            ]
+        },
+        {
+            "name": "EasyGameFrameworkOpen",
+            "topics": [
+                "cocos-creator",
+                "easy-to-use",
+                "egret",
+                "framework",
+                "game-dev",
+                "laya",
+                "monorepo-lerna",
+                "phaser",
+                "pixijs",
+                "typescript"
+            ]
+        },
+        {
+            "name": "team-learning-sql",
+            "topics": []
+        },
+        {
+            "name": "openapi-initializer",
+            "topics": []
+        },
+        {
+            "name": "Minimal-RPi-CM-4-Carrier",
+            "topics": []
+        },
+        {
+            "name": "dragon",
+            "topics": [
+                "attaching-headers",
+                "cookies",
+                "deno",
+                "framework",
+                "hacktoberfest",
+                "handlers",
+                "http",
+                "javascript",
+                "matcher",
+                "middleware",
+                "middlewares",
+                "register",
+                "router",
+                "server"
+            ]
+        },
+        {
+            "name": "DS_and_ML_projects",
+            "topics": [
+                "data-science",
+                "data-visualization",
+                "keras",
+                "keras-tensorflow",
+                "knn-classification",
+                "linear-regression",
+                "logistic-regression",
+                "machine-learning",
+                "machine-learning-algorithms",
+                "matplotlib",
+                "naive-bayes-classifier",
+                "opencv",
+                "pandas",
+                "python",
+                "scikit-learn",
+                "seaborn",
+                "tensorflow"
+            ]
+        },
+        {
+            "name": "p2p-indexing-and-search",
+            "topics": []
+        },
+        {
+            "name": "mev-inspect-rs",
+            "topics": [
+                "arbitrage",
+                "defi",
+                "ethereum",
+                "liquidation",
+                "mev",
+                "rust",
+                "web3"
+            ]
+        },
+        {
+            "name": "GrinningSoul",
+            "topics": []
+        }
+    ]
+]

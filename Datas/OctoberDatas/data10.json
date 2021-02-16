@@ -1,0 +1,748 @@
+[
+    [
+        {
+            "name": "bot",
+            "topics": [
+                "adb",
+                "android",
+                "automatic",
+                "automation",
+                "automator",
+                "bot",
+                "emulator",
+                "follow",
+                "followers",
+                "gain",
+                "instagram",
+                "instagram-bot",
+                "interaction",
+                "like",
+                "python",
+                "script"
+            ]
+        },
+        {
+            "name": "flutter-laundry-template",
+            "topics": []
+        },
+        {
+            "name": "Emotional-Speech-Data",
+            "topics": []
+        },
+        {
+            "name": "lambda-bert",
+            "topics": []
+        },
+        {
+            "name": "vault-lambda-extension",
+            "topics": []
+        },
+        {
+            "name": "prometheus_client_php",
+            "topics": [
+                "apcu",
+                "hacktoberfest",
+                "metrics",
+                "php",
+                "prometheus",
+                "prometheus-client-library",
+                "redis"
+            ]
+        },
+        {
+            "name": "typora-gitbook-theme",
+            "topics": [
+                "dark-theme",
+                "gitbook",
+                "minimalistic",
+                "theme",
+                "typora",
+                "typora-gitbook",
+                "typora-theme",
+                "typora-themes",
+                "variants"
+            ]
+        },
+        {
+            "name": "ibeam",
+            "topics": [
+                "algo-trading",
+                "gateway",
+                "ibeam",
+                "ibkr",
+                "ibkr-api",
+                "ibkr-credentials",
+                "interactive-brokers"
+            ]
+        },
+        {
+            "name": "repl",
+            "topics": [
+                "cli",
+                "framework-agnostic",
+                "repl",
+                "tinker"
+            ]
+        },
+        {
+            "name": "FlutterUI-Redesigns",
+            "topics": [
+                "flutter",
+                "flutterui",
+                "flutteruidesign"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Bonanza-Turbo",
+            "topics": []
+        },
+        {
+            "name": "GenshinImpact",
+            "topics": []
+        },
+        {
+            "name": "openai-python",
+            "topics": []
+        },
+        {
+            "name": "jax_verify",
+            "topics": []
+        },
+        {
+            "name": "shell-examples",
+            "topics": []
+        },
+        {
+            "name": "DoodlerGAN",
+            "topics": []
+        },
+        {
+            "name": "PointCloudLib",
+            "topics": []
+        },
+        {
+            "name": "penkala",
+            "topics": [
+                "clojure",
+                "postgresql"
+            ]
+        },
+        {
+            "name": "PagingImageGallery",
+            "topics": []
+        },
+        {
+            "name": "mev-research",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "learning-invariances",
+            "topics": []
+        },
+        {
+            "name": "StateOfJS-2020",
+            "topics": []
+        },
+        {
+            "name": "free-v2ray",
+            "topics": []
+        },
+        {
+            "name": "DockterLog",
+            "topics": []
+        },
+        {
+            "name": "swift-graphql",
+            "topics": [
+                "graphql",
+                "swift"
+            ]
+        },
+        {
+            "name": "touche",
+            "topics": [
+                "gestures",
+                "gtk",
+                "linux",
+                "multi-touch",
+                "touchegg",
+                "touchpad",
+                "touchscreen"
+            ]
+        },
+        {
+            "name": "cairo-lang",
+            "topics": []
+        },
+        {
+            "name": "HexRaysDeob",
+            "topics": []
+        },
+        {
+            "name": "delight",
+            "topics": [
+                "delight",
+                "spark",
+                "spark-history-server"
+            ]
+        },
+        {
+            "name": "everything-is-a-cms",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "Spotify-Playlist-Generator1",
+            "topics": [
+                "css",
+                "flask",
+                "javascript",
+                "python"
+            ]
+        },
+        {
+            "name": "ultimate-batch-anime-downloader",
+            "topics": []
+        },
+        {
+            "name": "flutter_live",
+            "topics": [
+                "android",
+                "flutter",
+                "ios",
+                "live-streaming",
+                "srs",
+                "webrtc"
+            ]
+        },
+        {
+            "name": "juejin-markdown-themes",
+            "topics": [
+                "markdown",
+                "markdown-themes"
+            ]
+        },
+        {
+            "name": "chili",
+            "topics": [
+                "formula",
+                "golang",
+                "math"
+            ]
+        },
+        {
+            "name": "dbt-expectations",
+            "topics": []
+        },
+        {
+            "name": "sharemore52",
+            "topics": []
+        },
+        {
+            "name": "GodotRetro",
+            "topics": []
+        },
+        {
+            "name": "GPU-scheduler-for-deep-learning",
+            "topics": []
+        },
+        {
+            "name": "Smartstore",
+            "topics": [
+                "aspnet",
+                "aspnet-core",
+                "autofac",
+                "azure",
+                "basket",
+                "bootstrap-4",
+                "c-sharp",
+                "cart",
+                "cms",
+                "core",
+                "e-commerce",
+                "ecommerce",
+                "ef6",
+                "esd",
+                "liquid",
+                "lucene",
+                "pagebuilder",
+                "sass",
+                "shop",
+                "smartstore"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "deeplearning-nlp-models",
+            "topics": [
+                "attention",
+                "cnn",
+                "deep-learning",
+                "deeplearning-nlp-models",
+                "embeddings",
+                "gpt",
+                "hugging-face",
+                "nlp",
+                "nlp-papers",
+                "pytorch",
+                "torchtext",
+                "transformer",
+                "tutorials",
+                "word2vec"
+            ]
+        },
+        {
+            "name": "n1ctf-2020",
+            "topics": []
+        },
+        {
+            "name": "woftool",
+            "topics": [
+                "compression",
+                "ntdll",
+                "ntfs",
+                "rtlcompressbuffer",
+                "wof",
+                "wofcompresseddata"
+            ]
+        },
+        {
+            "name": "rigflowv2",
+            "topics": []
+        },
+        {
+            "name": "rosen",
+            "topics": [
+                "censorship-circumvention",
+                "encryption",
+                "go",
+                "golang",
+                "obfuscation",
+                "proxy"
+            ]
+        },
+        {
+            "name": "operator-support",
+            "topics": []
+        },
+        {
+            "name": "readcli",
+            "topics": [
+                "bubbletea",
+                "hacktoberfest",
+                "markdown"
+            ]
+        },
+        {
+            "name": "envify",
+            "topics": [
+                "dart",
+                "dotenv",
+                "environment-variables",
+                "flutter"
+            ]
+        },
+        {
+            "name": "formik-devtools",
+            "topics": []
+        },
+        {
+            "name": "PanelStudio",
+            "topics": [
+                "2b2t",
+                "api",
+                "fabric",
+                "fabric-mod",
+                "fabricmc",
+                "fabricmc-mod",
+                "forge",
+                "forge-mod",
+                "gamesense-client",
+                "gui",
+                "java",
+                "library",
+                "minecraft",
+                "minecraft-forge",
+                "minecraft-forge-mod",
+                "minecraft-gui",
+                "minecraft-mod",
+                "utility-mod"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "database-wilayah-indonesia-2020",
+            "topics": []
+        },
+        {
+            "name": "Scriptbale",
+            "topics": [
+                "weather"
+            ]
+        },
+        {
+            "name": "ecars",
+            "topics": [
+                "change-data-capture",
+                "heroku",
+                "kafka",
+                "lightning-web-components",
+                "mqtt",
+                "salesforce"
+            ]
+        },
+        {
+            "name": "jsdb",
+            "topics": []
+        },
+        {
+            "name": "cloudash",
+            "topics": [
+                "aws",
+                "logs",
+                "metrics",
+                "monitoring",
+                "serverless",
+                "troubleshooting"
+            ]
+        },
+        {
+            "name": "Open-korean-corpora",
+            "topics": [
+                "corpora",
+                "curation",
+                "dataset",
+                "korean",
+                "nlp",
+                "open-source"
+            ]
+        },
+        {
+            "name": "Python-for-physicists",
+            "topics": []
+        },
+        {
+            "name": "Hacktoberfest-Project-Ideas",
+            "topics": [
+                "hacktoberfest",
+                "hacktoberfest2020"
+            ]
+        },
+        {
+            "name": "RefactorFirst",
+            "topics": []
+        },
+        {
+            "name": "density-mesh",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "DeviceCameraMonitorSample",
+            "topics": []
+        },
+        {
+            "name": "Markra",
+            "topics": [
+                "commonmark",
+                "jira",
+                "markdown",
+                "text-editor"
+            ]
+        },
+        {
+            "name": "vue-companies-israel",
+            "topics": []
+        },
+        {
+            "name": "PyTCP",
+            "topics": [
+                "arp",
+                "icmp",
+                "ip",
+                "linux",
+                "network",
+                "python",
+                "tcp",
+                "udp"
+            ]
+        },
+        {
+            "name": "VulWiki",
+            "topics": []
+        },
+        {
+            "name": "McCompose",
+            "topics": [
+                "android",
+                "jetpack-compose"
+            ]
+        },
+        {
+            "name": "RPC-Framework",
+            "topics": []
+        },
+        {
+            "name": "coding_interview_strategy",
+            "topics": []
+        },
+        {
+            "name": "Leetcode-Solutions",
+            "topics": []
+        },
+        {
+            "name": "11ty-sass-skeleton",
+            "topics": [
+                "11ty",
+                "11ty-template",
+                "eleventy",
+                "eleventy-template",
+                "sass",
+                "sass-boilerplate"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "rollpkg",
+            "topics": [
+                "npm-package",
+                "package-development",
+                "react",
+                "rollup",
+                "typescript",
+                "zero-configuration"
+            ]
+        },
+        {
+            "name": "cerulean",
+            "topics": []
+        },
+        {
+            "name": "attestation-couvre-feu-covid-19",
+            "topics": []
+        },
+        {
+            "name": "hunter-dkim",
+            "topics": []
+        },
+        {
+            "name": "Private-Script",
+            "topics": []
+        },
+        {
+            "name": "PHPUnit-Polyfills",
+            "topics": [
+                "compatibility",
+                "php",
+                "phpunit",
+                "polyfill",
+                "unit-testing"
+            ]
+        },
+        {
+            "name": "terraform-provider-flux",
+            "topics": [
+                "gitops-toolkit",
+                "terraform"
+            ]
+        },
+        {
+            "name": "postfix-macros",
+            "topics": []
+        },
+        {
+            "name": "atomic-cluster",
+            "topics": []
+        },
+        {
+            "name": "memShell",
+            "topics": [
+                "behinder-memshell",
+                "jboss-memshell",
+                "jetty-memshell",
+                "memshell",
+                "spring-memshell",
+                "tomcat-memshell",
+                "weblogic-memshell",
+                "webshell",
+                "websphere-memshell"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "django-htmx",
+            "topics": []
+        },
+        {
+            "name": "TensorGram",
+            "topics": [
+                "keras",
+                "telegram-bot",
+                "tensorflow",
+                "tensorgram"
+            ]
+        },
+        {
+            "name": "Plasma",
+            "topics": [
+                "android",
+                "android-application",
+                "bottomnavigationview",
+                "compose",
+                "composeanimation",
+                "coroutines",
+                "coroutines-flow",
+                "daggerhilt",
+                "declarative-ui",
+                "demo",
+                "hilt-android",
+                "jepackcompose",
+                "jetpackdatastore",
+                "lazygrid",
+                "multimodule",
+                "mvvm-architecture",
+                "navigation",
+                "password",
+                "sample"
+            ]
+        },
+        {
+            "name": "paprback.co",
+            "topics": [
+                "chakra-ui",
+                "personal-project",
+                "react"
+            ]
+        },
+        {
+            "name": "Coursify-hacktoberfest",
+            "topics": [
+                "contributing",
+                "contributions-welcome",
+                "css",
+                "first-contributions",
+                "first-timers",
+                "firstcontributions",
+                "hacktoberfest",
+                "hacktoberfest2020",
+                "html",
+                "html5",
+                "javascript",
+                "web",
+                "website"
+            ]
+        },
+        {
+            "name": "global-self-attention-network",
+            "topics": [
+                "artificial-intelligence",
+                "attention",
+                "attention-mechanism",
+                "image-classification",
+                "self-attention"
+            ]
+        },
+        {
+            "name": "cs-guide",
+            "topics": []
+        },
+        {
+            "name": "graphql-bleeding-edge-playground",
+            "topics": []
+        },
+        {
+            "name": "django-manifest-loader",
+            "topics": [
+                "angular",
+                "assets",
+                "cache-busting",
+                "django",
+                "django-manifest-loader",
+                "django-webpack-loader",
+                "hacktoberfest",
+                "javascript",
+                "loader",
+                "manifest",
+                "python",
+                "react",
+                "split-chunks",
+                "static",
+                "templatetag",
+                "vue",
+                "webpack",
+                "webpack-configuration"
+            ]
+        },
+        {
+            "name": "generate-analytics-report",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "Recommender-Systems-Competition-TopSolutions",
+            "topics": []
+        },
+        {
+            "name": "aja",
+            "topics": []
+        },
+        {
+            "name": "Yet-Another-Anime-Segmenter",
+            "topics": [
+                "adelaidet",
+                "anime-segmenter",
+                "condinst",
+                "detectron2",
+                "instance-segmentation"
+            ]
+        },
+        {
+            "name": "tartanvo",
+            "topics": []
+        },
+        {
+            "name": "prolens",
+            "topics": [
+                "hacktoberfest",
+                "haskell",
+                "lens",
+                "lenses",
+                "prisms",
+                "profunctor-optics",
+                "profunctors",
+                "traversal"
+            ]
+        },
+        {
+            "name": "TitusPi",
+            "topics": []
+        },
+        {
+            "name": "NuxtBnB",
+            "topics": []
+        },
+        {
+            "name": "php-sdk",
+            "topics": []
+        },
+        {
+            "name": "deepstream-video-pipeline",
+            "topics": []
+        },
+        {
+            "name": "db",
+            "topics": []
+        }
+    ]
+]

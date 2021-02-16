@@ -1,0 +1,685 @@
+[
+    [
+        {
+            "name": "BraindanceProtocol",
+            "topics": [
+                "cyberpunk",
+                "cyberpunk-2077",
+                "cyberpunk-mods",
+                "cyberpunk2077",
+                "mods"
+            ]
+        },
+        {
+            "name": "RealFormer-pytorch",
+            "topics": []
+        },
+        {
+            "name": "RECCON",
+            "topics": [
+                "bert-model",
+                "causal-inference",
+                "causal-models",
+                "causal-spans",
+                "causality",
+                "conversations",
+                "dataset",
+                "dialogue-generation",
+                "dialogue-systems",
+                "emotion",
+                "emotion-cause",
+                "emotion-cause-pair-extraction",
+                "emotion-recognition",
+                "emotion-recognition-in-conversation",
+                "emotion-tasks",
+                "inference",
+                "natural-language-inference",
+                "reasoning",
+                "roberta"
+            ]
+        },
+        {
+            "name": "Project-Guidance",
+            "topics": [
+                "artificial-intelligence",
+                "bootstrap",
+                "css",
+                "data-science",
+                "guidence",
+                "hml",
+                "interesting",
+                "iot",
+                "java",
+                "javascript",
+                "jypyternotebook",
+                "machine-learning",
+                "mentoring",
+                "php",
+                "programming-language",
+                "project-management",
+                "projects",
+                "python",
+                "python3",
+                "tkinter-gui"
+            ]
+        },
+        {
+            "name": "ExtendedSumm",
+            "topics": [
+                "dataset",
+                "extended-summarization",
+                "language-generation",
+                "summarization-corpora",
+                "text-summarization"
+            ]
+        },
+        {
+            "name": "ptswarm-twitter",
+            "topics": []
+        },
+        {
+            "name": "react-polymorphic-types",
+            "topics": [
+                "as-prop",
+                "polymorphism",
+                "react",
+                "typescript"
+            ]
+        },
+        {
+            "name": "ultraopt",
+            "topics": [
+                "automl",
+                "bayesian-optimization",
+                "blackbox-optimization",
+                "hyperopt",
+                "hyperparameter-optimization",
+                "machine-learning",
+                "multi-fidelity",
+                "optimization",
+                "python"
+            ]
+        },
+        {
+            "name": "ERC3156",
+            "topics": []
+        },
+        {
+            "name": "Efficient-CapsNet",
+            "topics": [
+                "capsule-network",
+                "computer-vision",
+                "deep-learning"
+            ]
+        }
+    ],
+    [
+        {
+            "name": "OI-Wiki-export",
+            "topics": []
+        },
+        {
+            "name": "flutter_task_app",
+            "topics": []
+        },
+        {
+            "name": "FTerm.nvim",
+            "topics": [
+                "floating",
+                "lua",
+                "neovim",
+                "nvim",
+                "plugin",
+                "terminal",
+                "window"
+            ]
+        },
+        {
+            "name": "NAT-TCP-test",
+            "topics": []
+        },
+        {
+            "name": "SA-Det3D",
+            "topics": [
+                "3d-deep-learning",
+                "3d-detection",
+                "autonomous-driving",
+                "object-detection",
+                "point-cloud",
+                "pytorch"
+            ]
+        },
+        {
+            "name": "lfz-battle",
+            "topics": [
+                "firered",
+                "pokemon",
+                "programming-question"
+            ]
+        },
+        {
+            "name": "pycritty",
+            "topics": [
+                "alacritty",
+                "alacritty-config",
+                "alacritty-theme",
+                "alacritty-theme-changer",
+                "nerd-fonts",
+                "python"
+            ]
+        },
+        {
+            "name": "h6",
+            "topics": []
+        },
+        {
+            "name": "lambda-on-cloud-run",
+            "topics": []
+        },
+        {
+            "name": "dapp-boilerplate",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "skolplattformen",
+            "topics": [
+                "app",
+                "civic-tech",
+                "react-native",
+                "school-education"
+            ]
+        },
+        {
+            "name": "MIRNet-TFLite-TRT",
+            "topics": [
+                "computer-vision",
+                "tensorflow2",
+                "tflite",
+                "tinyml"
+            ]
+        },
+        {
+            "name": "soft-intro-vae-pytorch",
+            "topics": []
+        },
+        {
+            "name": "streamlit_freecodecamp",
+            "topics": []
+        },
+        {
+            "name": "csharp-sdk",
+            "topics": []
+        },
+        {
+            "name": "swiftui-ios-toast-notification",
+            "topics": []
+        },
+        {
+            "name": "macOS-Setup",
+            "topics": [
+                "awesome-list",
+                "list",
+                "mac",
+                "macos",
+                "macosx",
+                "software"
+            ]
+        },
+        {
+            "name": "grafana-sync",
+            "topics": [
+                "cobra",
+                "go",
+                "golang",
+                "grafana",
+                "grafana-dashboard"
+            ]
+        },
+        {
+            "name": "presentations",
+            "topics": []
+        },
+        {
+            "name": "emacs-gl",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "espwebc3",
+            "topics": []
+        },
+        {
+            "name": "JS3C-Net",
+            "topics": [
+                "auto-drive",
+                "completion",
+                "lidar-point-cloud",
+                "lidar-segmentation",
+                "point-cloud",
+                "segmentation",
+                "semantic-scene-completion",
+                "semantickitti",
+                "semanticposs"
+            ]
+        },
+        {
+            "name": "garfish",
+            "topics": []
+        },
+        {
+            "name": "JsFak",
+            "topics": []
+        },
+        {
+            "name": "simple-opengl-loader",
+            "topics": [
+                "linux",
+                "opengl",
+                "opengl-loader",
+                "single-header-lib",
+                "win32",
+                "windows",
+                "x11"
+            ]
+        },
+        {
+            "name": "heart",
+            "topics": [
+                "go",
+                "golang",
+                "heart",
+                "http",
+                "http-server",
+                "lua"
+            ]
+        },
+        {
+            "name": "Pluto",
+            "topics": [
+                "reverse-engineering",
+                "syscall",
+                "sysenter",
+                "windows-internals"
+            ]
+        },
+        {
+            "name": "compose-browser-demo",
+            "topics": [
+                "compose",
+                "kotlin",
+                "kotlin-js",
+                "kotlin-multiplatform"
+            ]
+        },
+        {
+            "name": "obsidian-california-coast-theme",
+            "topics": [
+                "obsidian",
+                "obsidian-md",
+                "obsidian-theme"
+            ]
+        },
+        {
+            "name": "Medo",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "kaggle-lyft-motion-prediction-av",
+            "topics": []
+        },
+        {
+            "name": "Facil",
+            "topics": []
+        },
+        {
+            "name": "Freevalve_Arduino",
+            "topics": []
+        },
+        {
+            "name": "excess-mortality",
+            "topics": []
+        },
+        {
+            "name": "scribble",
+            "topics": [
+                "ethereum",
+                "language",
+                "scribble",
+                "smart-contracts",
+                "solidity"
+            ]
+        },
+        {
+            "name": "Ben.Http",
+            "topics": []
+        },
+        {
+            "name": "ytcaption",
+            "topics": []
+        },
+        {
+            "name": "read-the-fucking-42",
+            "topics": []
+        },
+        {
+            "name": "AdGuardHomeRules",
+            "topics": []
+        },
+        {
+            "name": "CTF",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "qsortm",
+            "topics": []
+        },
+        {
+            "name": "awesome_slam_computer_vision_resources",
+            "topics": []
+        },
+        {
+            "name": "basic_stat",
+            "topics": []
+        },
+        {
+            "name": "textyle",
+            "topics": [
+                "editor",
+                "game-development",
+                "gamedev",
+                "mapeditor",
+                "reactjs",
+                "rust",
+                "rustwasm",
+                "tilemap",
+                "wasm",
+                "web-application"
+            ]
+        },
+        {
+            "name": "WarOfResistanceLive",
+            "topics": []
+        },
+        {
+            "name": "aws_serverless_photo_gallery",
+            "topics": []
+        },
+        {
+            "name": "vit-explain",
+            "topics": [
+                "deep-learning",
+                "explainable-ai",
+                "pytorch",
+                "transformer",
+                "vision-transformer"
+            ]
+        },
+        {
+            "name": "serverless-starter-kit",
+            "topics": []
+        },
+        {
+            "name": "sparsify",
+            "topics": []
+        },
+        {
+            "name": "vsinder-web",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "awesome-data-podcasts",
+            "topics": []
+        },
+        {
+            "name": "sol-rs",
+            "topics": []
+        },
+        {
+            "name": "sktrace",
+            "topics": []
+        },
+        {
+            "name": "myyt",
+            "topics": []
+        },
+        {
+            "name": "emacs-svg-icon",
+            "topics": [
+                "emacs",
+                "icons",
+                "svg"
+            ]
+        },
+        {
+            "name": "rapids-ai-BBO-2nd-place-solution",
+            "topics": []
+        },
+        {
+            "name": "rob101",
+            "topics": []
+        },
+        {
+            "name": "shell-emotions",
+            "topics": []
+        },
+        {
+            "name": "stasis",
+            "topics": []
+        },
+        {
+            "name": "RepeatLayoutManager",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "kraft_dinner",
+            "topics": []
+        },
+        {
+            "name": "JavaCore",
+            "topics": [
+                "dubbo",
+                "java",
+                "spring",
+                "springboot",
+                "springcloud",
+                "springsecurity"
+            ]
+        },
+        {
+            "name": "tent",
+            "topics": [
+                "cli",
+                "containers",
+                "dependency-manager",
+                "fedora",
+                "golang",
+                "linux",
+                "podman",
+                "redhat"
+            ]
+        },
+        {
+            "name": "Machine_Learning_Bootcamp",
+            "topics": []
+        },
+        {
+            "name": "hscan",
+            "topics": [
+                "crawlergo",
+                "crawlergo-xray",
+                "dirsearch",
+                "docker",
+                "hscan",
+                "jsfinder",
+                "jsfinder-nmap-nikto",
+                "nmap",
+                "oneforall",
+                "scaner",
+                "src",
+                "xray"
+            ]
+        },
+        {
+            "name": "Point-Transformers",
+            "topics": []
+        },
+        {
+            "name": "BGMv2-webcam-plugin-linux",
+            "topics": []
+        },
+        {
+            "name": "winXray-1",
+            "topics": []
+        },
+        {
+            "name": "TabularSemanticParsing",
+            "topics": [
+                "database",
+                "natural-language-interface",
+                "natural-language-processing",
+                "pytorch",
+                "semantic-parsing",
+                "text-to-sql"
+            ]
+        },
+        {
+            "name": "maes_que_codam",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "LSTM_Write_Poetry",
+            "topics": []
+        },
+        {
+            "name": "fjb",
+            "topics": [
+                "bundler",
+                "javascript",
+                "jsx",
+                "nodejs",
+                "npm"
+            ]
+        },
+        {
+            "name": "trigger",
+            "topics": []
+        },
+        {
+            "name": "ConfigOverhaulCyberpunk",
+            "topics": []
+        },
+        {
+            "name": "project-memoria-detector",
+            "topics": []
+        },
+        {
+            "name": "vision-core",
+            "topics": []
+        },
+        {
+            "name": "msw-storybook-addon",
+            "topics": []
+        },
+        {
+            "name": "ellalang",
+            "topics": [
+                "bytecode",
+                "interpreter",
+                "scripting-language"
+            ]
+        },
+        {
+            "name": "bevy_crossterm",
+            "topics": []
+        },
+        {
+            "name": "Contrastive-Clustering",
+            "topics": []
+        }
+    ],
+    [
+        {
+            "name": "macos-by-keyboard",
+            "topics": []
+        },
+        {
+            "name": "obsidian-neo4j-graph-view",
+            "topics": [
+                "markdown",
+                "neo4j",
+                "obsidian-md",
+                "obsidian-plugin"
+            ]
+        },
+        {
+            "name": "mp4-wasm-encoder",
+            "topics": []
+        },
+        {
+            "name": "jobs",
+            "topics": [
+                "go",
+                "hackclub",
+                "ssh"
+            ]
+        },
+        {
+            "name": "graphql-portal",
+            "topics": [
+                "api",
+                "gateway",
+                "graphql",
+                "graphql-gateway",
+                "graphql-portal",
+                "typescript"
+            ]
+        },
+        {
+            "name": "Number_Theory_in_CP_PS",
+            "topics": []
+        },
+        {
+            "name": "PygameForBeginners",
+            "topics": []
+        },
+        {
+            "name": "blackwater",
+            "topics": []
+        },
+        {
+            "name": "esa-httpserver",
+            "topics": [
+                "h2c",
+                "haproxy",
+                "http2",
+                "https",
+                "httpserver",
+                "netty"
+            ]
+        },
+        {
+            "name": "OkBle",
+            "topics": [
+                "android-ble",
+                "android-ble-client",
+                "ble",
+                "ble-client",
+                "bluetooth-low-energy",
+                "gatt-client"
+            ]
+        }
+    ]
+]

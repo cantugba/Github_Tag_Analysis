@@ -1,4 +1,4 @@
-from GithubData import GithupApi
+from RequestToApi.GithubData import GithupApi
 import json
 
 
@@ -7,22 +7,24 @@ def write_json(data, filename):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=4)
 
+
 if __name__ == '__main__':
-    # Her ay ayrı ayrı çekildiği için GithubData.py dosyasındaki urlyi ilgili aya göre değiştirip diğer mainlerde de aynısı yapılacak
+
     # # Ekim Ayı
-    # filename1 = 'Datas/OctoberDatas/data.json'
-    # filename2 = 'Datas/OctoberDatas/data1.json'
+    # filename1 = 'JsonDatas/OctoberDatas/data3.json'
+    # filename2 = 'JsonDatas/OctoberDatas/data4.json'
 
     # # Kasım Ayı
-    # filename1 = 'Datas/NovemberDatas/data.json'
-    # filename2 = 'Datas/NovemberDatas/data1.json'
+    # filename1 = 'JsonDatas/NovemberDatas/data3.json'
+    # filename2 = 'JsonDatas/NovemberDatas/data4.json'
 
     # Aralık Ayı
-    filename1 = 'Datas/DecemberDatas/data.json'
-    filename2 = 'Datas/DecemberDatas/data1.json'
+    filename1 = 'JsonDatas/DecemberDatas/data3.json'
+    filename2 = 'JsonDatas/DecemberDatas/data4.json'
+
 
     obj_list = list()
-    for github_page in range(1, 11):
+    for github_page in range(21, 31):
         githup = GithupApi(page_number=github_page)
         obj_list.append(githup.datas)
 
@@ -31,7 +33,7 @@ if __name__ == '__main__':
 
     obj_list2 = list()
     # page_number = 11
-    for github_page in range(11, 21):
+    for github_page in range(31, 41):
         githup = GithupApi(page_number=github_page)
         obj_list2.append(githup.datas)
 

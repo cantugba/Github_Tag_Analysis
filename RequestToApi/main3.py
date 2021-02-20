@@ -1,4 +1,4 @@
-from GithubData import GithupApi
+from RequestToApi.GithubData import GithupApi
 import json
 
 
@@ -10,16 +10,16 @@ def write_json(data, filename):
 
 if __name__ == '__main__':
     # # Ekim Ayı
-    # filename1 = 'Datas/OctoberDatas/data5.json'
-    # filename2 = 'Datas/OctoberDatas/data6.json'
+    # filename1 = 'JsonDatas/OctoberDatas/data5.json'
+    # filename2 = 'JsonDatas/OctoberDatas/data6.json'
 
     # # Kasım Ayı
-    # filename1 = 'Datas/NovemberDatas/data5.json'
-    # filename2 = 'Datas/NovemberDatas/data6.json'
+    # filename1 = 'JsonDatas/NovemberDatas/data5.json'
+    # filename2 = 'JsonDatas/NovemberDatas/data6.json'
 
     # Aralık Ayı
-    filename1 = 'Datas/DecemberDatas/data5.json'
-    filename2 = 'Datas/DecemberDatas/data6.json'
+    filename1 = 'JsonDatas/DecemberDatas/data5.json'
+    filename2 = 'JsonDatas/DecemberDatas/data6.json'
 
     obj_list = list()
     for github_page in range(41, 51):
